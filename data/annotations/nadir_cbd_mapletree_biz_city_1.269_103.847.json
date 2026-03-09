@@ -1,0 +1,15 @@
+{
+  "image_file": "nadir_cbd_mapletree_biz_city_1.269_103.847.jpg",
+  "perspective": "nadir",
+  "scene_type": "port_terminal",
+  "caption": "Massive vehicle and container staging yard viewed from above, showing thousands of vehicles arranged in dense parallel rows across the entire frame. A large warehouse or processing building sits in the upper left, with access roads dividing the storage zones. Despite the filename suggesting a business city location, this area functions as a major logistics and vehicle storage facility adjacent to the port, handling import and export vehicle throughput.",
+  "analysis": {
+    "objects": [
+      {"type": "warehouse", "count": 2},
+      {"type": "vehicle", "count": 500}
+    ],
+    "infrastructure": ["road_network"],
+    "terrain": ["industrial", "reclaimed_land"],
+    "notable": "Massive vehicle pre-delivery inspection and storage yard near Mapletree Business City, handling Singapore's vehicle import logistics — a striking pattern of thousands of parked cars visible from above."
+  }
+}

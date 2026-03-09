@@ -1,0 +1,16 @@
+{
+  "image_file": "nadir_industrial_woodlands_industrial_1.44_103.77.jpg",
+  "perspective": "nadir",
+  "scene_type": "park_green",
+  "caption": "Large green open space in the Woodlands area viewed from above, featuring expansive grass fields, a lake with surrounding parkland, and tree-covered areas. Road infrastructure including what appears to be an expressway runs along the left side. Some industrial and residential buildings are visible at the edges. The open fields and water body suggest this is a park, reservoir, or military training area rather than an industrial zone.",
+  "analysis": {
+    "objects": [
+      {"type": "warehouse", "count": 2},
+      {"type": "hdb_block", "count": 3},
+      {"type": "vehicle", "count": 5}
+    ],
+    "infrastructure": ["expressway", "road_network"],
+    "terrain": ["parkland", "water", "forest_reserve"],
+    "notable": "Extensive green open space in northern Singapore with lake and grass fields, providing a natural buffer amid the surrounding urban development in the Woodlands area."
+  }
+}

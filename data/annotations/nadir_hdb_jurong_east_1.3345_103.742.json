@@ -1,0 +1,17 @@
+{
+  "image_file": "nadir_hdb_jurong_east_1.3345_103.742.jpg",
+  "perspective": "nadir",
+  "scene_type": "transport_hub",
+  "caption": "Jurong East transport hub and commercial centre viewed from above, dominated by multiple MRT and rail tracks running through the frame. Large commercial buildings including shopping malls flank the rail corridor, with active construction visible on several sites. This area serves as a major interchange point in Singapore's western region, with the rail infrastructure occupying a significant portion of the visible area.",
+  "analysis": {
+    "objects": [
+      {"type": "mrt_station", "count": 1},
+      {"type": "shopping_mall", "count": 2},
+      {"type": "construction_crane", "count": 2},
+      {"type": "vehicle", "count": 5}
+    ],
+    "infrastructure": ["mrt_line", "road_network", "bus_lane"],
+    "terrain": ["urban"],
+    "notable": "Major western Singapore transport interchange where multiple MRT lines converge, surrounded by commercial development and ongoing construction reflecting Jurong East's transformation into a regional centre."
+  }
+}

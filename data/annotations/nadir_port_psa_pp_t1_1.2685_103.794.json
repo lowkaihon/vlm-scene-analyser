@@ -1,0 +1,16 @@
+{
+  "image_file": "nadir_port_psa_pp_t1_1.2685_103.794.jpg",
+  "perspective": "nadir",
+  "scene_type": "port_terminal",
+  "caption": "PSA Pasir Panjang Terminal viewed from above, showing dense container stacking yards with colourful shipping containers arranged in precise rows. Quay cranes are visible along the berth on the left side where the terminal meets the water. A water channel runs through the centre, with circular storage tanks visible in the upper right. The highly organised grid pattern of container storage is characteristic of PSA's world-class terminal operations.",
+  "analysis": {
+    "objects": [
+      {"type": "container_crane", "count": 6},
+      {"type": "warehouse", "count": 2},
+      {"type": "vehicle", "count": 10}
+    ],
+    "infrastructure": ["jetty", "road_network"],
+    "terrain": ["industrial", "water", "reclaimed_land"],
+    "notable": "PSA Pasir Panjang Terminal 1 showing the dense, highly organised container stacking pattern and quay crane infrastructure of the world's second-busiest container port."
+  }
+}

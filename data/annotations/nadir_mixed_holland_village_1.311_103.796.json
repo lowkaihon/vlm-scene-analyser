@@ -1,0 +1,17 @@
+{
+  "image_file": "nadir_mixed_holland_village_1.311_103.796.jpg",
+  "perspective": "nadir",
+  "scene_type": "mixed_use",
+  "caption": "Holland Village neighbourhood viewed from above, showing curved streets lined with red-roofed shophouse terraces and a distinctive domed commercial or community building in the left portion. The organic street layout follows the natural terrain contours, unlike the strict grid patterns of newer estates. A condominium with a blue swimming pool is visible in the upper right. Mature trees line the winding roads, giving this area its characteristic leafy, village-like character.",
+  "analysis": {
+    "objects": [
+      {"type": "condo", "count": 1},
+      {"type": "shopping_mall", "count": 1},
+      {"type": "place_of_worship", "count": 1},
+      {"type": "vehicle", "count": 10}
+    ],
+    "infrastructure": ["road_network", "mrt_line"],
+    "terrain": ["urban", "parkland"],
+    "notable": "Holland Village's distinctive curved street layout and low-rise shophouse character, a popular expatriate neighbourhood known for its village atmosphere amid Singapore's urban density."
+  }
+}

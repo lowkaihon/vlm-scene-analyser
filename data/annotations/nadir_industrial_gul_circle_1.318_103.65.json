@@ -1,0 +1,17 @@
+{
+  "image_file": "nadir_industrial_gul_circle_1.318_103.65.jpg",
+  "perspective": "nadir",
+  "scene_type": "industrial",
+  "caption": "Gul Circle industrial estate in western Singapore viewed from above, showing warehouse and factory buildings with varied roof colours arranged along a grid road network. A waterway channel runs across the lower portion with a small vessel and a jetty. A road or rail corridor runs diagonally through the scene. The area serves heavy and marine-related industries typical of Singapore's western industrial zone near Tuas.",
+  "analysis": {
+    "objects": [
+      {"type": "warehouse", "count": 15},
+      {"type": "cargo_ship", "count": 1},
+      {"type": "solar_panel", "count": 2},
+      {"type": "vehicle", "count": 8}
+    ],
+    "infrastructure": ["jetty", "road_network", "waterway"],
+    "terrain": ["industrial", "water"],
+    "notable": "Gul Circle waterfront industrial estate with marine access via jetty, supporting Singapore's western marine and heavy industrial cluster near Jurong Island."
+  }
+}

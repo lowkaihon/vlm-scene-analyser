@@ -1,0 +1,17 @@
+{
+  "image_file": "nadir_transport_pie_cte_1.338_103.837.jpg",
+  "perspective": "nadir",
+  "scene_type": "construction",
+  "caption": "PIE-CTE interchange area viewed from above, showing a residential neighbourhood with landed houses and low-rise buildings on the left alongside major construction works on the right. Exposed earth, structural foundations, and construction staging areas indicate significant infrastructure works, likely related to new MRT line construction. The contrast between the established residential area and active construction site illustrates the ongoing transport infrastructure expansion in central Singapore.",
+  "analysis": {
+    "objects": [
+      {"type": "landed_house", "count": 15},
+      {"type": "condo", "count": 2},
+      {"type": "construction_crane", "count": 2},
+      {"type": "vehicle", "count": 10}
+    ],
+    "infrastructure": ["expressway", "road_network"],
+    "terrain": ["urban", "parkland"],
+    "notable": "Major infrastructure construction near the PIE-CTE interchange, likely MRT tunnelling works, adjacent to established landed housing — illustrating Singapore's challenge of building new transport links through dense existing neighbourhoods."
+  }
+}

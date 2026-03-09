@@ -1,0 +1,16 @@
+{
+  "image_file": "nadir_port_keppel_terminal_1.263_103.832.jpg",
+  "perspective": "nadir",
+  "scene_type": "port_terminal",
+  "caption": "Keppel Terminal container port viewed from above, showing container stacking yards on both sides of a wooded hill. A cargo ship is berthed at the lower quay with container cranes positioned for loading operations. Colourful containers are arranged in dense rows across the storage yards, and water is visible at the top and bottom edges. The forested hill in the centre, likely part of Labrador Nature Reserve, creates an unusual juxtaposition of nature and heavy port infrastructure.",
+  "analysis": {
+    "objects": [
+      {"type": "container_crane", "count": 5},
+      {"type": "cargo_ship", "count": 1},
+      {"type": "vehicle", "count": 10}
+    ],
+    "infrastructure": ["jetty", "road_network"],
+    "terrain": ["industrial", "water", "forest_reserve"],
+    "notable": "Keppel Terminal showing active cargo ship loading alongside a forested hill, illustrating the close proximity of port infrastructure and nature reserves in land-scarce Singapore."
+  }
+}

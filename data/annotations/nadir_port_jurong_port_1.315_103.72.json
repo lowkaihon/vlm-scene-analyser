@@ -1,0 +1,16 @@
+{
+  "image_file": "nadir_port_jurong_port_1.315_103.72.jpg",
+  "perspective": "nadir",
+  "scene_type": "industrial",
+  "caption": "Jurong industrial and logistics area viewed from above, showing large warehouse and industrial buildings arranged along a grid road network. Several buildings feature solar panel installations on their rooftops. The area functions as a logistics hub supporting Jurong Port operations, with storage yards, vehicle parking areas, and a construction site visible in the lower left. The flat, utilitarian architecture is typical of Singapore's industrial estates.",
+  "analysis": {
+    "objects": [
+      {"type": "warehouse", "count": 10},
+      {"type": "solar_panel", "count": 3},
+      {"type": "vehicle", "count": 15}
+    ],
+    "infrastructure": ["road_network", "parking_area"],
+    "terrain": ["industrial"],
+    "notable": "Jurong logistics and industrial estate supporting port operations, with large-footprint warehouses and solar panel installations reflecting Singapore's push for industrial sustainability."
+  }
+}

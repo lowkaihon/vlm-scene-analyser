@@ -1,0 +1,19 @@
+{
+  "image_file": "nadir_hdb_choa_chu_kang_1.385_103.744.jpg",
+  "perspective": "nadir",
+  "scene_type": "transport_hub",
+  "caption": "Choa Chu Kang MRT station area viewed from above, with railway tracks running vertically through the centre. A bus interchange with rows of parked buses is visible near the station, and a distinctive red-roofed building sits adjacent to the tracks. Condominiums with swimming pools are visible in the upper left, while sports fields and green spaces occupy the right side. Landed houses with red roofs line the lower left.",
+  "analysis": {
+    "objects": [
+      {"type": "mrt_station", "count": 1},
+      {"type": "bus_interchange", "count": 1},
+      {"type": "condo", "count": 1},
+      {"type": "landed_house", "count": 5},
+      {"type": "sports_facility", "count": 1},
+      {"type": "vehicle", "count": 15}
+    ],
+    "infrastructure": ["mrt_line", "bus_lane", "road_network", "parking_area"],
+    "terrain": ["urban", "parkland"],
+    "notable": "Choa Chu Kang integrated transport hub showing MRT station and bus interchange side by side, with a mix of private condominiums, landed houses, and public amenities."
+  }
+}

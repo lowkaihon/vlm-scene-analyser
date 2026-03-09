@@ -1,0 +1,16 @@
+{
+  "image_file": "nadir_mixed_telok_ayer_1.282_103.848.jpg",
+  "perspective": "nadir",
+  "scene_type": "commercial_cbd",
+  "caption": "Telok Ayer area viewed from above, showing a transitional zone between heritage conservation shophouses with orange-red tile roofs and modern CBD office towers casting long shadows. A distinctive blue-roofed building sits in the centre-right, and green pocket parks provide breaks in the dense urban fabric. The area occupies the historic waterfront where early Chinese immigrants first landed, now several blocks inland due to land reclamation.",
+  "analysis": {
+    "objects": [
+      {"type": "place_of_worship", "count": 1},
+      {"type": "condo", "count": 1},
+      {"type": "vehicle", "count": 5}
+    ],
+    "infrastructure": ["road_network"],
+    "terrain": ["urban"],
+    "notable": "Telok Ayer's transition zone where heritage shophouses meet CBD towers, preserving Singapore's original shoreline district including historic temples and clan associations now surrounded by modern offices."
+  }
+}

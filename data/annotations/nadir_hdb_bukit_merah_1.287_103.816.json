@@ -1,0 +1,17 @@
+{
+  "image_file": "nadir_hdb_bukit_merah_1.287_103.816.jpg",
+  "perspective": "nadir",
+  "scene_type": "residential_hdb",
+  "caption": "Bukit Merah HDB estate showing a mix of block designs including cross-shaped point blocks in the upper portion and longer slab blocks in the middle. A school compound with red-roofed buildings and sports courts is visible in the lower left, while a sports field sits in the lower right. Mature trees provide generous green cover between the blocks, typical of this older southern Singapore estate.",
+  "analysis": {
+    "objects": [
+      {"type": "hdb_block", "count": 10},
+      {"type": "school", "count": 1},
+      {"type": "sports_facility", "count": 2},
+      {"type": "vehicle", "count": 5}
+    ],
+    "infrastructure": ["road_network", "covered_walkway", "parking_area"],
+    "terrain": ["urban", "parkland"],
+    "notable": "Bukit Merah estate showing the mix of point block and slab block HDB designs with generous green buffer zones and school facilities integrated within the residential precinct."
+  }
+}

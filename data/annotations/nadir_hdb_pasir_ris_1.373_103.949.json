@@ -1,0 +1,19 @@
+{
+  "image_file": "nadir_hdb_pasir_ris_1.373_103.949.jpg",
+  "perspective": "nadir",
+  "scene_type": "construction",
+  "caption": "Pasir Ris area undergoing major development with a large construction site occupying the left half of the frame. An elevated MRT station structure runs vertically through the centre, with commercial buildings and HDB blocks with blue solar panel rooftops visible on the right. Construction cranes and exposed earth indicate significant ongoing works, likely related to the Cross Island Line or new residential development.",
+  "analysis": {
+    "objects": [
+      {"type": "hdb_block", "count": 3},
+      {"type": "mrt_station", "count": 1},
+      {"type": "shopping_mall", "count": 1},
+      {"type": "construction_crane", "count": 2},
+      {"type": "solar_panel", "count": 4},
+      {"type": "vehicle", "count": 5}
+    ],
+    "infrastructure": ["mrt_line", "road_network"],
+    "terrain": ["urban"],
+    "notable": "Major construction activity in Pasir Ris likely related to new MRT line works, with existing elevated station and solar-equipped HDB blocks contrasting with the large-scale earthworks."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "image_file": "nadir_hdb_bukit_batok_1.349_103.7495.jpg",
+  "perspective": "nadir",
+  "scene_type": "residential_hdb",
+  "caption": "Bukit Batok HDB estate with MRT tracks running diagonally through the frame. Cross-shaped point block HDB footprints are visible in the upper left, while a large green hillside occupies the centre-right. The MRT station platform and rail infrastructure are clearly visible, with commercial buildings clustered near the station area.",
+  "analysis": {
+    "objects": [
+      {"type": "hdb_block", "count": 5},
+      {"type": "mrt_station", "count": 1},
+      {"type": "condo", "count": 1},
+      {"type": "vehicle", "count": 8}
+    ],
+    "infrastructure": ["mrt_line", "road_network", "parking_area"],
+    "terrain": ["urban", "parkland", "forest_reserve"],
+    "notable": "MRT line cutting through the HDB estate with a large forested hill providing a green buffer, characteristic of Bukit Batok's hilly terrain and integration of nature with public housing."
+  }
+}

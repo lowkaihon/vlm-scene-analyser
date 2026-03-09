@@ -1,0 +1,16 @@
+{
+  "image_file": "nadir_cbd_orchard_1.3048_103.8318.jpg",
+  "perspective": "nadir",
+  "scene_type": "commercial_cbd",
+  "caption": "Orchard Road shopping belt viewed from above, with the famous boulevard running diagonally through the frame and a major intersection visible. Large hotel and shopping mall buildings flank the road, with a distinctive blue rooftop swimming pool visible on a hotel tower. A curved landscaped garden or fountain feature occupies the lower portion, and mature trees line the streets providing green relief amid the commercial towers.",
+  "analysis": {
+    "objects": [
+      {"type": "shopping_mall", "count": 2},
+      {"type": "sports_facility", "count": 1},
+      {"type": "vehicle", "count": 15}
+    ],
+    "infrastructure": ["road_network", "pedestrian_bridge"],
+    "terrain": ["urban", "parkland"],
+    "notable": "Singapore's premier shopping boulevard Orchard Road seen from above, with hotel rooftop pools and lush tree canopy distinguishing it from the denser CBD core."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "image_file": "nadir_hdb_toa_payoh_1.3343_103.8563.jpg",
+  "perspective": "nadir",
+  "scene_type": "residential_hdb",
+  "caption": "Dense mature HDB estate in Toa Payoh viewed from above, showing characteristic rectangular slab block footprints arranged along tree-lined roads. A large town centre structure with distinctive roof is visible in the upper portion of the image, adjacent to older-generation HDB blocks. Covered walkways connect residential blocks, and mature trees fill the spaces between buildings, typical of Singapore's older planned towns.",
+  "analysis": {
+    "objects": [
+      {"type": "hdb_block", "count": 14},
+      {"type": "shopping_mall", "count": 1},
+      {"type": "vehicle", "count": 15}
+    ],
+    "infrastructure": ["covered_walkway", "road_network", "parking_area"],
+    "terrain": ["urban", "parkland"],
+    "notable": "Mature Toa Payoh estate displaying the classic slab block layout and generous tree coverage characteristic of Singapore's earliest HDB new towns."
+  }
+}

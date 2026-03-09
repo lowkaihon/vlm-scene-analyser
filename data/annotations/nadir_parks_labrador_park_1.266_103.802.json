@@ -1,0 +1,12 @@
+{
+  "image_file": "nadir_parks_labrador_park_1.266_103.802.jpg",
+  "perspective": "nadir",
+  "scene_type": "park_green",
+  "caption": "Labrador Nature Reserve viewed from above, showing dense coastal forest stretching along the southern waterfront. A jetty extends into the sea on the left, and the waters of the Singapore Strait are visible along the bottom edge. A cleared grassy area sits in the upper portion. This is one of Singapore's last remaining stretches of coastal cliff forest, preserved as a nature reserve despite the surrounding urbanisation.",
+  "analysis": {
+    "objects": [],
+    "infrastructure": ["jetty", "park_connector"],
+    "terrain": ["forest_reserve", "water", "parkland"],
+    "notable": "Labrador Nature Reserve preserving one of Singapore's last coastal cliff forests along the southern shore, with a historic jetty extending into the Singapore Strait."
+  }
+}

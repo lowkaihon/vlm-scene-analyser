@@ -1,0 +1,16 @@
+{
+  "image_file": "nadir_cbd_harbourfront_1.265_103.822.jpg",
+  "perspective": "nadir",
+  "scene_type": "commercial_cbd",
+  "caption": "HarbourFront area viewed from above, dominated by a large commercial complex with extensive solar panel arrays on its rooftop and a distinctive landscaped rooftop garden with organic curved pathways. An expressway runs along the upper edge of the frame, and the rooftop playground and garden spaces characteristic of VivoCity shopping mall are clearly visible from the nadir perspective.",
+  "analysis": {
+    "objects": [
+      {"type": "shopping_mall", "count": 1},
+      {"type": "solar_panel", "count": 6},
+      {"type": "vehicle", "count": 10}
+    ],
+    "infrastructure": ["expressway", "road_network"],
+    "terrain": ["urban"],
+    "notable": "VivoCity's distinctive rooftop garden and playground clearly visible from above, alongside extensive solar panel installations on the mall's roof — Singapore's largest waterfront shopping destination."
+  }
+}

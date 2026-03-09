@@ -1,0 +1,15 @@
+{
+  "image_file": "nadir_hdb_tampines_1.3496_103.9568.jpg",
+  "perspective": "nadir",
+  "scene_type": "residential_hdb",
+  "caption": "HDB estate in Tampines bisected by a major expressway running diagonally through the frame. Older red-roofed slab blocks are visible on the left, while newer-generation point blocks with distinctive cross-shaped footprints occupy the right side. Dense tree cover lines the expressway corridor, and vehicles are visible on the multi-lane road.",
+  "analysis": {
+    "objects": [
+      {"type": "hdb_block", "count": 10},
+      {"type": "vehicle", "count": 20}
+    ],
+    "infrastructure": ["expressway", "road_network", "parking_area"],
+    "terrain": ["urban", "parkland"],
+    "notable": "Contrast between older red-roofed slab blocks and newer cross-shaped point blocks on either side of a major expressway, illustrating Tampines' phased HDB development."
+  }
+}

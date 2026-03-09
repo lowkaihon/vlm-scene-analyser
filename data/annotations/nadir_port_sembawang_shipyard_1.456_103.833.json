@@ -1,0 +1,16 @@
+{
+  "image_file": "nadir_port_sembawang_shipyard_1.456_103.833.jpg",
+  "perspective": "nadir",
+  "scene_type": "military",
+  "caption": "Former Sembawang naval base residential area viewed from above, showing red-roofed colonial-era buildings arranged along winding roads on a densely vegetated hillside. The estate features a mix of low-rise residential buildings set among mature tropical vegetation, with a larger institutional or community building complex visible in the centre. Water is visible at the bottom edge, and the overall layout reflects the British colonial military housing design adapted for tropical Singapore.",
+  "analysis": {
+    "objects": [
+      {"type": "landed_house", "count": 20},
+      {"type": "school", "count": 1},
+      {"type": "vehicle", "count": 5}
+    ],
+    "infrastructure": ["road_network"],
+    "terrain": ["urban", "forest_reserve", "water"],
+    "notable": "Former British naval base housing at Sembawang with distinctive colonial red-roofed buildings set among tropical vegetation on a hillside overlooking the strait — a rare example of colonial military heritage in Singapore."
+  }
+}

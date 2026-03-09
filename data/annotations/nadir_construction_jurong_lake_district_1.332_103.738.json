@@ -1,0 +1,16 @@
+{
+  "image_file": "nadir_construction_jurong_lake_district_1.332_103.738.jpg",
+  "perspective": "nadir",
+  "scene_type": "construction",
+  "caption": "Jurong Lake District development area viewed from above, showing the Science Centre Singapore with its distinctive angular roofing in the upper left alongside blue-roofed commercial buildings in the upper right. Open green spaces and construction activity are visible, with a roundabout road junction in the centre. This area is being developed as Singapore's second CBD, with major infrastructure works underway to transform the precinct.",
+  "analysis": {
+    "objects": [
+      {"type": "shopping_mall", "count": 2},
+      {"type": "construction_crane", "count": 1},
+      {"type": "vehicle", "count": 8}
+    ],
+    "infrastructure": ["road_network", "parking_area"],
+    "terrain": ["urban", "parkland"],
+    "notable": "Jurong Lake District in early transformation into Singapore's second CBD, with the existing Science Centre visible alongside new commercial developments and open land parcels."
+  }
+}

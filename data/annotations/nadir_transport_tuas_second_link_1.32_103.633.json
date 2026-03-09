@@ -1,0 +1,16 @@
+{
+  "image_file": "nadir_transport_tuas_second_link_1.32_103.633.jpg",
+  "perspective": "nadir",
+  "scene_type": "industrial",
+  "caption": "Tuas industrial estate near the Second Link border crossing viewed from above, showing large warehouse and factory buildings with flat roofs in a grid layout. A major road runs through the area connecting to the Second Link expressway to Malaysia. Blue and white-roofed industrial buildings of varying sizes fill the frame, with tree-lined roads providing minimal buffer between the industrial lots.",
+  "analysis": {
+    "objects": [
+      {"type": "warehouse", "count": 15},
+      {"type": "solar_panel", "count": 1},
+      {"type": "vehicle", "count": 8}
+    ],
+    "infrastructure": ["expressway", "road_network"],
+    "terrain": ["industrial"],
+    "notable": "Tuas industrial estate near the Second Link to Malaysia, supporting manufacturing and logistics operations that benefit from proximity to the cross-border highway."
+  }
+}

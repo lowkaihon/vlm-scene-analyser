@@ -1,0 +1,17 @@
+{
+  "image_file": "nadir_hdb_clementi_1.315_103.764.jpg",
+  "perspective": "nadir",
+  "scene_type": "mixed_use",
+  "caption": "Clementi area viewed from above with railway tracks running diagonally through the scene. A mix of commercial buildings with distinctive orange-red roofs, residential blocks, and a large curved commercial structure is visible. The railway corridor separates different building clusters, with mature trees lining the streets and sports courts visible in the lower left.",
+  "analysis": {
+    "objects": [
+      {"type": "hdb_block", "count": 3},
+      {"type": "shopping_mall", "count": 1},
+      {"type": "sports_facility", "count": 1},
+      {"type": "vehicle", "count": 8}
+    ],
+    "infrastructure": ["mrt_line", "road_network", "parking_area"],
+    "terrain": ["urban", "parkland"],
+    "notable": "Mixed commercial and residential zone near Clementi MRT with railway tracks creating a clear divide between building clusters and distinctive orange-roofed structures."
+  }
+}

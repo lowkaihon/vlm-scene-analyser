@@ -1,0 +1,19 @@
+{
+  "image_file": "nadir_hdb_bedok_1.324_103.93.jpg",
+  "perspective": "nadir",
+  "scene_type": "transport_hub",
+  "caption": "Bedok town centre and transport interchange viewed from above, dominated by a large curved-roof bus interchange structure running parallel to a major road. HDB blocks and sports courts with green playing surfaces are visible in the upper portion, while warehouse and commercial buildings with solar panel installations occupy the lower half. A swimming pool complex is visible in the upper left area.",
+  "analysis": {
+    "objects": [
+      {"type": "hdb_block", "count": 6},
+      {"type": "bus_interchange", "count": 1},
+      {"type": "sports_facility", "count": 2},
+      {"type": "warehouse", "count": 3},
+      {"type": "solar_panel", "count": 3},
+      {"type": "vehicle", "count": 15}
+    ],
+    "infrastructure": ["expressway", "bus_lane", "road_network", "parking_area"],
+    "terrain": ["urban"],
+    "notable": "Bedok integrated transport hub with distinctive curved-roof bus interchange clearly visible from above, flanked by HDB residential blocks and commercial warehouses."
+  }
+}

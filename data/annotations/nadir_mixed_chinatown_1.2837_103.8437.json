@@ -1,0 +1,16 @@
+{
+  "image_file": "nadir_mixed_chinatown_1.2837_103.8437.jpg",
+  "perspective": "nadir",
+  "scene_type": "mixed_use",
+  "caption": "Chinatown heritage district viewed from above, showing dense rows of conservation shophouses with characteristic orange-red clay tile roofs arranged in tight blocks along narrow streets. Taller modern commercial and residential buildings frame the edges of the heritage core. The distinctive uniform roof pattern of the shophouse terraces, with their internal courtyards and narrow lot widths, creates a striking visual pattern unique to Singapore's historic districts.",
+  "analysis": {
+    "objects": [
+      {"type": "place_of_worship", "count": 1},
+      {"type": "shopping_mall", "count": 1},
+      {"type": "vehicle", "count": 5}
+    ],
+    "infrastructure": ["road_network", "mrt_line"],
+    "terrain": ["urban"],
+    "notable": "Chinatown's dense conservation shophouse roofscape creating a distinctive orange-red tile pattern from above — one of Singapore's most recognisable heritage urban textures, gazetted for preservation."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "image_file": "nadir_industrial_tuas_1.322_103.637.jpg",
+  "perspective": "nadir",
+  "scene_type": "industrial",
+  "caption": "Tuas industrial estate viewed from above, showing a grid of warehouse and factory buildings with varied roof colours including blue, orange, grey, and red. Roads with tree-lined dividers separate the industrial lots. Construction and scrapyard areas are visible, along with vehicle parking. The utilitarian layout and large building footprints are characteristic of Singapore's western heavy industrial zone.",
+  "analysis": {
+    "objects": [
+      {"type": "warehouse", "count": 15},
+      {"type": "vehicle", "count": 15}
+    ],
+    "infrastructure": ["road_network", "parking_area"],
+    "terrain": ["industrial"],
+    "notable": "Tuas industrial estate with its dense grid of factory and warehouse buildings in Singapore's western industrial heartland, close to the Second Link border crossing with Malaysia."
+  }
+}

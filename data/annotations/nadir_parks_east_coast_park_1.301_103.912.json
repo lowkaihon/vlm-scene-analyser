@@ -1,0 +1,16 @@
+{
+  "image_file": "nadir_parks_east_coast_park_1.301_103.912.jpg",
+  "perspective": "nadir",
+  "scene_type": "park_green",
+  "caption": "East Coast Park viewed from above, with a sandy beach strip along the bottom edge and a dense band of coastal tree canopy separating it from the East Coast Parkway (ECP) expressway above. The expressway forms a distinctive S-curve loop in the upper left. HDB blocks and condominiums are visible beyond the expressway in the upper portion, showing how the park serves as a green buffer between the sea and residential areas.",
+  "analysis": {
+    "objects": [
+      {"type": "hdb_block", "count": 4},
+      {"type": "condo", "count": 2},
+      {"type": "vehicle", "count": 15}
+    ],
+    "infrastructure": ["expressway", "park_connector", "road_network"],
+    "terrain": ["parkland", "water", "urban"],
+    "notable": "East Coast Park's distinctive linear layout between the ECP expressway and the beach, Singapore's most popular coastal recreation space on reclaimed land."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "image_file": "nadir_transport_kranji_mrt_1.425_103.762.jpg",
+  "perspective": "nadir",
+  "scene_type": "transport_hub",
+  "caption": "Kranji MRT station area viewed from above, showing the station platform alongside a distinctive dome-shaped building and circular storage tanks in the upper portion. MRT tracks extend diagonally, and a waterway runs through the area. Green open spaces and a landscaped park sit in the centre, with industrial and commercial buildings on the periphery. The area serves as a transport node in Singapore's northern rural-industrial fringe.",
+  "analysis": {
+    "objects": [
+      {"type": "mrt_station", "count": 1},
+      {"type": "shopping_mall", "count": 1},
+      {"type": "vehicle", "count": 8}
+    ],
+    "infrastructure": ["mrt_line", "waterway", "road_network"],
+    "terrain": ["urban", "parkland", "industrial"],
+    "notable": "Kranji MRT station with its distinctive dome building in Singapore's northern agricultural-industrial zone, serving as a gateway to the Kranji countryside and war memorial areas."
+  }
+}

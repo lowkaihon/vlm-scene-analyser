@@ -1,0 +1,16 @@
+{
+  "image_file": "nadir_parks_west_coast_park_1.281_103.755.jpg",
+  "perspective": "nadir",
+  "scene_type": "port_terminal",
+  "caption": "PSA container terminal and vehicle storage yard near West Coast viewed from above, filling the frame with dense rows of shipping containers and parked vehicles. Container cranes are positioned along the berth at the bottom where water is visible. A large warehouse structure sits in the upper centre. Despite the park-area filename, this scene is entirely dominated by port logistics infrastructure with thousands of containers in multicoloured rows.",
+  "analysis": {
+    "objects": [
+      {"type": "container_crane", "count": 6},
+      {"type": "warehouse", "count": 1},
+      {"type": "vehicle", "count": 300}
+    ],
+    "infrastructure": ["jetty", "road_network"],
+    "terrain": ["industrial", "water", "reclaimed_land"],
+    "notable": "Massive PSA container storage and vehicle staging yard near West Coast, with dense multicoloured container rows and quay cranes — a striking nadir-view pattern of Singapore's port operations."
+  }
+}

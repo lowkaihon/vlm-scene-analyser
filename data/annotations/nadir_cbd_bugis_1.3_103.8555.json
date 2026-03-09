@@ -1,0 +1,16 @@
+{
+  "image_file": "nadir_cbd_bugis_1.3_103.8555.jpg",
+  "perspective": "nadir",
+  "scene_type": "commercial_cbd",
+  "caption": "Bugis commercial district viewed from above, showing a mix of large shopping mall complexes with orange-red heritage-style roofs and modern commercial towers. A major road intersection with pedestrian crossings is visible in the centre, flanked by tree-lined streets. The distinctive rooflines of Bugis Junction's glass-covered heritage shophouse arcade can be identified alongside more contemporary commercial developments.",
+  "analysis": {
+    "objects": [
+      {"type": "shopping_mall", "count": 2},
+      {"type": "place_of_worship", "count": 1},
+      {"type": "vehicle", "count": 10}
+    ],
+    "infrastructure": ["road_network", "pedestrian_bridge"],
+    "terrain": ["urban"],
+    "notable": "Bugis district blending heritage shophouse architecture with modern commercial malls, a key commercial node in Singapore's downtown core."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "image_file": "nadir_hdb_hougang_1.372_103.893.jpg",
+  "perspective": "nadir",
+  "scene_type": "residential_hdb",
+  "caption": "Hougang HDB estate with a large open playing field dominating the centre of the frame. HDB blocks are visible in the upper portion, while a cluster of orange-roofed school buildings sits in the lower right. A bus depot with rows of parked buses is visible in the lower left, alongside active construction sites. The green open space provides a visual break between the dense residential blocks.",
+  "analysis": {
+    "objects": [
+      {"type": "hdb_block", "count": 6},
+      {"type": "school", "count": 1},
+      {"type": "bus_interchange", "count": 1},
+      {"type": "construction_crane", "count": 1},
+      {"type": "vehicle", "count": 15}
+    ],
+    "infrastructure": ["road_network", "bus_lane", "parking_area"],
+    "terrain": ["urban", "parkland"],
+    "notable": "Hougang neighbourhood featuring a large open playing field flanked by HDB blocks and a school campus, with a bus depot visible indicating the area's role as a local transport node."
+  }
+}

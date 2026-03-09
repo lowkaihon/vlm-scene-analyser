@@ -1,0 +1,15 @@
+{
+  "image_file": "nadir_parks_bishan_amk_park_1.361_103.847.jpg",
+  "perspective": "nadir",
+  "scene_type": "park_green",
+  "caption": "Bishan-Ang Mo Kio Park viewed from above, featuring a naturalised river channel (Kallang River) winding through open grass lawns and mature trees. HDB blocks with distinctive orange roofs line the left and bottom edges of the park, demonstrating how this urban park integrates directly with surrounding residential estates. The river's meandering naturalized design, replacing the former concrete canal, is visible from the nadir perspective.",
+  "analysis": {
+    "objects": [
+      {"type": "hdb_block", "count": 12},
+      {"type": "vehicle", "count": 5}
+    ],
+    "infrastructure": ["road_network", "park_connector", "covered_walkway"],
+    "terrain": ["parkland", "water", "urban"],
+    "notable": "Bishan-Ang Mo Kio Park showcasing the award-winning naturalised Kallang River design, transforming a concrete canal into a meandering waterway — a model of Singapore's ABC Waters programme."
+  }
+}

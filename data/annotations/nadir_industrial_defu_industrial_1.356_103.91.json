@@ -1,0 +1,15 @@
+{
+  "image_file": "nadir_industrial_defu_industrial_1.356_103.91.jpg",
+  "perspective": "nadir",
+  "scene_type": "military",
+  "caption": "Former military airfield area near Defu viewed from above, showing runway and taxiway infrastructure surrounded by dense tropical vegetation. The paved runway surface runs diagonally across the left side, with taxiway connectors and a small cluster of buildings visible in the lower portion. The surrounding forest has reclaimed much of the former airfield perimeter, creating a contrast between maintained aviation infrastructure and encroaching vegetation.",
+  "analysis": {
+    "objects": [
+      {"type": "warehouse", "count": 2},
+      {"type": "vehicle", "count": 3}
+    ],
+    "infrastructure": ["runway", "taxiway", "road_network"],
+    "terrain": ["parkland", "forest_reserve"],
+    "notable": "Former military airfield infrastructure near Defu with runway and taxiway still visible amid encroaching tropical forest, a remnant of Singapore's defence infrastructure."
+  }
+}

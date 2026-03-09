@@ -1,0 +1,14 @@
+{
+  "image_file": "nadir_parks_gardens_by_bay_1.2816_103.8636.jpg",
+  "perspective": "nadir",
+  "scene_type": "park_green",
+  "caption": "Gardens by the Bay viewed from above, one of Singapore's most iconic landmarks. The Supertree Grove with its circular tree-shaped structures is clearly identifiable in the centre, while the two conservatory domes — Flower Dome and Cloud Forest — with their distinctive ribbed glass roofs are visible in the upper right. Dragonfly Lake runs along the left side, and the OCBC Skyway connecting the Supertrees is visible. Extensive landscaped gardens fill the remainder of the frame.",
+  "analysis": {
+    "objects": [
+      {"type": "sports_facility", "count": 1}
+    ],
+    "infrastructure": ["pedestrian_bridge", "road_network", "park_connector"],
+    "terrain": ["parkland", "water", "reclaimed_land"],
+    "notable": "Gardens by the Bay's iconic Supertree Grove and twin conservatory domes clearly visible from above — Singapore's signature garden on reclaimed Marina Bay land."
+  }
+}

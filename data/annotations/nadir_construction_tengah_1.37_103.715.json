@@ -1,0 +1,16 @@
+{
+  "image_file": "nadir_construction_tengah_1.37_103.715.jpg",
+  "perspective": "nadir",
+  "scene_type": "military",
+  "caption": "Former military camp area near Tengah viewed from above, showing large orange-roofed barrack buildings arranged in a compound with a sports track and playing fields in the upper right. Dense tropical forest covers the left side, and a road runs along the bottom edge. This area is part of the Tengah new town development zone, where former military land is being repurposed for Singapore's first car-free HDB town.",
+  "analysis": {
+    "objects": [
+      {"type": "warehouse", "count": 4},
+      {"type": "sports_facility", "count": 2},
+      {"type": "vehicle", "count": 5}
+    ],
+    "infrastructure": ["road_network"],
+    "terrain": ["forest_reserve", "urban"],
+    "notable": "Former military camp at Tengah slated for conversion into Singapore's first car-free HDB town, with existing barrack buildings and tropical forest awaiting redevelopment."
+  }
+}

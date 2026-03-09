@@ -1,0 +1,17 @@
+{
+  "image_file": "nadir_port_psa_t2_1.26_103.818.jpg",
+  "perspective": "nadir",
+  "scene_type": "mixed_use",
+  "caption": "Sentosa waterfront and Resorts World Sentosa viewed from above, showing the channel between Sentosa island and mainland Singapore. The lower portion reveals Sentosa's forested hillside alongside the large-scale entertainment complex with distinctive curved amphitheatre structures. A marina with docked boats sits in the lower left, and a pier extends into the waterway. Despite the port-area coordinates, this scene is dominated by tourism and leisure infrastructure.",
+  "analysis": {
+    "objects": [
+      {"type": "shopping_mall", "count": 1},
+      {"type": "sports_facility", "count": 1},
+      {"type": "cargo_ship", "count": 1},
+      {"type": "vehicle", "count": 5}
+    ],
+    "infrastructure": ["jetty", "road_network"],
+    "terrain": ["water", "urban", "forest_reserve"],
+    "notable": "Sentosa island's Resorts World entertainment complex and marina visible across the channel from mainland Singapore, showing the transformation of former port-adjacent land into tourism infrastructure."
+  }
+}

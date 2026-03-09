@@ -1,0 +1,15 @@
+{
+  "image_file": "nadir_cbd_tanjong_pagar_1.2764_103.8456.jpg",
+  "perspective": "nadir",
+  "scene_type": "commercial_cbd",
+  "caption": "Tanjong Pagar CBD area viewed from above, showing tall commercial office towers casting long shadows alongside clusters of heritage shophouses with distinctive orange-red tile roofs. The contrast between modern glass towers and conservation shophouses is clearly visible from this perspective. Green pocket parks and tree-lined streets provide buffer between the different building typologies.",
+  "analysis": {
+    "objects": [
+      {"type": "shopping_mall", "count": 1},
+      {"type": "vehicle", "count": 8}
+    ],
+    "infrastructure": ["road_network"],
+    "terrain": ["urban"],
+    "notable": "Tanjong Pagar's distinctive juxtaposition of modern CBD towers and conserved heritage shophouses with orange tile roofs, illustrating Singapore's approach to blending heritage preservation with commercial development."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "image_file": "nadir_hdb_jurong_west_1.35_103.697.jpg",
+  "perspective": "nadir",
+  "scene_type": "residential_hdb",
+  "caption": "Jurong West HDB estate featuring a mix of newer-generation blocks with U-shaped and angular footprints in the upper portion, separated from older blocks by a tree-lined road. The estate shows the typical dense layout of Singapore's western HDB towns, with blocks arranged around communal green spaces and connected by covered walkways. A school or community building with a distinctive roof is visible in the lower right.",
+  "analysis": {
+    "objects": [
+      {"type": "hdb_block", "count": 15},
+      {"type": "school", "count": 1},
+      {"type": "vehicle", "count": 8}
+    ],
+    "infrastructure": ["road_network", "covered_walkway", "parking_area"],
+    "terrain": ["urban", "parkland"],
+    "notable": "Jurong West estate showing the evolution of HDB block design with newer angular footprints alongside older rectangular slab blocks, connected by generous green corridors."
+  }
+}

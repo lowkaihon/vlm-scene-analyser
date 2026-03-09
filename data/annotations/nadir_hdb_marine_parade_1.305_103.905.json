@@ -1,0 +1,17 @@
+{
+  "image_file": "nadir_hdb_marine_parade_1.305_103.905.jpg",
+  "perspective": "nadir",
+  "scene_type": "mixed_use",
+  "caption": "Marine Parade neighbourhood showing a dense urban mix of a large shopping mall complex in the centre surrounded by older buildings with orange-red tile roofs. The area features a tight street grid typical of Singapore's east coast residential-commercial zones. Several mid-rise commercial buildings and condominiums with rooftop pools are visible in the lower right, while the surrounding blocks display the characteristic dense urban fabric of the Marine Parade area.",
+  "analysis": {
+    "objects": [
+      {"type": "shopping_mall", "count": 1},
+      {"type": "hdb_block", "count": 4},
+      {"type": "condo", "count": 2},
+      {"type": "vehicle", "count": 10}
+    ],
+    "infrastructure": ["road_network", "parking_area"],
+    "terrain": ["urban"],
+    "notable": "Marine Parade's dense mixed-use urban fabric with a central shopping mall surrounded by older walk-up apartments and newer condominiums, characteristic of Singapore's established east coast neighbourhoods."
+  }
+}

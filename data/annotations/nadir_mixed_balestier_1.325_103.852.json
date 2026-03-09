@@ -1,0 +1,16 @@
+{
+  "image_file": "nadir_mixed_balestier_1.325_103.852.jpg",
+  "perspective": "nadir",
+  "scene_type": "mixed_use",
+  "caption": "Balestier area viewed from above, showing a mix of modern commercial and residential towers in the upper portion alongside older shophouses with orange-red tile roofs in the lower half. Blue swimming pools are visible on several condominium developments. The transition from low-rise heritage fabric to mid-rise and high-rise buildings illustrates the ongoing urban transformation of this historic light-industry and residential corridor along Balestier Road.",
+  "analysis": {
+    "objects": [
+      {"type": "condo", "count": 3},
+      {"type": "hdb_block", "count": 2},
+      {"type": "vehicle", "count": 8}
+    ],
+    "infrastructure": ["road_network"],
+    "terrain": ["urban"],
+    "notable": "Balestier's evolving streetscape where heritage shophouses along a historic road give way to modern condominiums and commercial buildings, a neighbourhood in active transition."
+  }
+}

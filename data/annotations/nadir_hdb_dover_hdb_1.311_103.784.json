@@ -1,0 +1,17 @@
+{
+  "image_file": "nadir_hdb_dover_hdb_1.311_103.784.jpg",
+  "perspective": "nadir",
+  "scene_type": "residential_private",
+  "caption": "Dover area showing a landed housing estate with red and orange tile-roofed houses in the upper portion, separated by a major road from a large active construction site in the lower left. The landed properties are arranged in a tree-lined grid pattern typical of Singapore's Good Class Bungalow areas. A sports field is visible in the upper right, and the construction site shows exposed earth and foundation works for new development.",
+  "analysis": {
+    "objects": [
+      {"type": "landed_house", "count": 25},
+      {"type": "construction_crane", "count": 1},
+      {"type": "sports_facility", "count": 1},
+      {"type": "vehicle", "count": 8}
+    ],
+    "infrastructure": ["road_network"],
+    "terrain": ["urban", "parkland"],
+    "notable": "Contrast between established landed housing estate with mature trees and active construction site, showing ongoing development pressure in the Dover-Clementi area."
+  }
+}

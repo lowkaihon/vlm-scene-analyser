@@ -1,0 +1,16 @@
+{
+  "image_file": "nadir_airport_changi_t4_1.341_103.984.jpg",
+  "perspective": "nadir",
+  "scene_type": "airport",
+  "caption": "Changi Airport Terminal 4 viewed from above, showing the compact terminal building with its distinctive brown-pink roofing. Aircraft are parked at contact gates along the apron, with taxiways extending to the right. Landscaped road access and car parks are visible on the left side, with tree-lined approach roads. T4 is notably more compact than the larger terminals, reflecting its role serving budget and regional carriers.",
+  "analysis": {
+    "objects": [
+      {"type": "aircraft", "count": 8},
+      {"type": "solar_panel", "count": 2},
+      {"type": "vehicle", "count": 10}
+    ],
+    "infrastructure": ["runway", "taxiway", "road_network", "parking_area"],
+    "terrain": ["urban", "parkland"],
+    "notable": "Changi Terminal 4's compact footprint with its distinctive roof colour, designed for efficient processing of budget carrier passengers with automated systems."
+  }
+}

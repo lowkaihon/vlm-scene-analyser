@@ -1,0 +1,19 @@
+{
+  "image_file": "nadir_hdb_sengkang_1.392_103.895.jpg",
+  "perspective": "nadir",
+  "scene_type": "residential_hdb",
+  "caption": "Sengkang town centre viewed from above, centred on a large shopping mall with distinctive circular roof features. HDB blocks are arranged in the upper portion, with sports courts visible on the left and a swimming pool complex with a blue lagoon-style pool on the right. An open green field occupies the lower centre, and LRT infrastructure connects the residential blocks to the commercial centre.",
+  "analysis": {
+    "objects": [
+      {"type": "hdb_block", "count": 8},
+      {"type": "shopping_mall", "count": 1},
+      {"type": "sports_facility", "count": 2},
+      {"type": "mrt_station", "count": 1},
+      {"type": "condo", "count": 1},
+      {"type": "vehicle", "count": 5}
+    ],
+    "infrastructure": ["mrt_line", "road_network", "covered_walkway", "parking_area"],
+    "terrain": ["urban", "parkland"],
+    "notable": "Sengkang integrated town centre with shopping mall, sports facilities, and swimming pool complex serving the surrounding HDB estate, connected by LRT."
+  }
+}

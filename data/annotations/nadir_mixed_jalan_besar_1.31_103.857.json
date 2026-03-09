@@ -1,0 +1,16 @@
+{
+  "image_file": "nadir_mixed_jalan_besar_1.31_103.857.jpg",
+  "perspective": "nadir",
+  "scene_type": "mixed_use",
+  "caption": "Jalan Besar area viewed from above, showing conservation shophouses with orange-red tile roofs surrounding a large modern commercial or residential complex casting a long shadow across the heritage fabric. A swimming pool is visible in the upper left. A domed structure, possibly a place of worship or heritage building, sits in the lower left. The juxtaposition of dense heritage shophouse rows and modern high-rise towers is characteristic of Singapore's urban renewal approach in this district.",
+  "analysis": {
+    "objects": [
+      {"type": "condo", "count": 2},
+      {"type": "place_of_worship", "count": 1},
+      {"type": "vehicle", "count": 8}
+    ],
+    "infrastructure": ["road_network"],
+    "terrain": ["urban"],
+    "notable": "Jalan Besar's contrasting urban fabric where modern towers rise directly above dense conservation shophouse terraces, showing Singapore's layered approach to heritage and development."
+  }
+}

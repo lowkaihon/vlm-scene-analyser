@@ -1,0 +1,16 @@
+{
+  "image_file": "nadir_industrial_changi_biz_park_1.334_103.964.jpg",
+  "perspective": "nadir",
+  "scene_type": "commercial_cbd",
+  "caption": "Changi Business Park viewed from above, featuring modern office buildings with distinctive curved and circular architectural footprints set among generous landscaping. Solar panel installations are visible on multiple buildings, and MRT tracks run along the left edge. The campus-style layout with organic building forms and green spaces between structures differentiates this business park from traditional industrial estates.",
+  "analysis": {
+    "objects": [
+      {"type": "warehouse", "count": 4},
+      {"type": "solar_panel", "count": 4},
+      {"type": "vehicle", "count": 5}
+    ],
+    "infrastructure": ["mrt_line", "road_network"],
+    "terrain": ["urban", "parkland"],
+    "notable": "Changi Business Park's distinctive curved building footprints and campus-style landscaping, housing major technology and finance companies in Singapore's eastern business hub."
+  }
+}

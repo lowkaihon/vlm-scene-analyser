@@ -1,0 +1,16 @@
+{
+  "image_file": "nadir_cbd_marina_bay_1.2814_103.8586.jpg",
+  "perspective": "nadir",
+  "scene_type": "commercial_cbd",
+  "caption": "Marina Bay waterfront area viewed from above, featuring a large building with a distinctive ribbed roof structure alongside Marina Bay. A major construction site with exposed earth and foundation works occupies the right half of the frame. A tree-lined boulevard separates the existing development from the construction zone, and the waters of Marina Bay are visible along the top edge.",
+  "analysis": {
+    "objects": [
+      {"type": "shopping_mall", "count": 1},
+      {"type": "construction_crane", "count": 2},
+      {"type": "vehicle", "count": 5}
+    ],
+    "infrastructure": ["road_network", "pedestrian_bridge"],
+    "terrain": ["urban", "water", "reclaimed_land"],
+    "notable": "Marina Bay waterfront undergoing expansion with large-scale construction adjacent to existing iconic structures, part of Singapore's ongoing CBD development on reclaimed land."
+  }
+}

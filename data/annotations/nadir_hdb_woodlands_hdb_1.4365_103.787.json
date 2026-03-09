@@ -1,0 +1,16 @@
+{
+  "image_file": "nadir_hdb_woodlands_hdb_1.4365_103.787.jpg",
+  "perspective": "nadir",
+  "scene_type": "transport_hub",
+  "caption": "Woodlands transport and commercial hub viewed from above, showing a large commercial complex with bus parking area on the left and MRT tracks running along the right edge. A large open green field occupies the lower right portion. The area appears to be near the Woodlands Checkpoint approach, with significant transport infrastructure and vehicle staging areas visible.",
+  "analysis": {
+    "objects": [
+      {"type": "shopping_mall", "count": 1},
+      {"type": "bus_interchange", "count": 1},
+      {"type": "vehicle", "count": 20}
+    ],
+    "infrastructure": ["mrt_line", "bus_lane", "road_network", "parking_area"],
+    "terrain": ["urban", "parkland"],
+    "notable": "Major northern Singapore transport node near Woodlands Checkpoint with large-scale commercial and bus interchange facilities serving cross-border commuters."
+  }
+}

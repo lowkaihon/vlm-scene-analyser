@@ -1,0 +1,17 @@
+{
+  "image_file": "nadir_transport_ulu_pandan_depot_1.318_103.764.jpg",
+  "perspective": "nadir",
+  "scene_type": "residential_hdb",
+  "caption": "Ulu Pandan area viewed from above, showing HDB blocks with orange-red roofs alongside condominiums and an MRT line running diagonally through the frame. A large construction site with exposed earth occupies the lower left, likely for the Ulu Pandan MRT depot or new residential development. The mix of public and private housing with the MRT corridor illustrates the integrated transport-housing planning typical of Singapore's urban design.",
+  "analysis": {
+    "objects": [
+      {"type": "hdb_block", "count": 10},
+      {"type": "condo", "count": 3},
+      {"type": "construction_crane", "count": 1},
+      {"type": "vehicle", "count": 8}
+    ],
+    "infrastructure": ["mrt_line", "road_network", "covered_walkway"],
+    "terrain": ["urban"],
+    "notable": "Ulu Pandan area showing the integration of MRT infrastructure with surrounding HDB and condominium housing, with construction for new transport-linked development underway."
+  }
+}

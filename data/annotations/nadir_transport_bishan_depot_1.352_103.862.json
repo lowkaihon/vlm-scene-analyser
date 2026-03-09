@@ -1,0 +1,17 @@
+{
+  "image_file": "nadir_transport_bishan_depot_1.352_103.862.jpg",
+  "perspective": "nadir",
+  "scene_type": "residential_private",
+  "caption": "Bishan residential area viewed from above, showing a mix of landed houses with red-orange tile roofs and condominiums with blue swimming pools. A large construction site with exposed orange earth occupies the right side, likely related to new residential or MRT depot development. The left side features an open field and institutional buildings, while the lower right shows a modern condominium estate with landscaped grounds and multiple pools.",
+  "analysis": {
+    "objects": [
+      {"type": "landed_house", "count": 15},
+      {"type": "condo", "count": 3},
+      {"type": "construction_crane", "count": 1},
+      {"type": "vehicle", "count": 8}
+    ],
+    "infrastructure": ["road_network"],
+    "terrain": ["urban", "parkland"],
+    "notable": "Mix of landed housing and modern condominiums in the Bishan area with a major construction site indicating ongoing development pressure in this central Singapore location."
+  }
+}

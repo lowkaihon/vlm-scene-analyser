@@ -1,0 +1,17 @@
+{
+  "image_file": "nadir_parks_punggol_waterway_1.408_103.902.jpg",
+  "perspective": "nadir",
+  "scene_type": "residential_hdb",
+  "caption": "Punggol Waterway area viewed from above, featuring distinctive hexagonal and geometric-footprint HDB blocks on the left surrounding a central waterway park with a green water body. Multiple construction sites with exposed orange earth are visible on the right, indicating ongoing Punggol town development. The modern HDB block designs with their unconventional footprints and integrated waterway park represent Singapore's latest generation of new town planning.",
+  "analysis": {
+    "objects": [
+      {"type": "hdb_block", "count": 12},
+      {"type": "construction_crane", "count": 2},
+      {"type": "sports_facility", "count": 1},
+      {"type": "vehicle", "count": 5}
+    ],
+    "infrastructure": ["road_network", "waterway", "park_connector"],
+    "terrain": ["urban", "water", "parkland"],
+    "notable": "Punggol Waterway showcasing Singapore's latest HDB town design with distinctive hexagonal blocks, integrated waterway park, and ongoing construction reflecting the town's phased development."
+  }
+}

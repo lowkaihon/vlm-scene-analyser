@@ -1,0 +1,17 @@
+{
+  "image_file": "nadir_hdb_bishan_1.351_103.849.jpg",
+  "perspective": "nadir",
+  "scene_type": "mixed_use",
+  "caption": "Bishan town centre area viewed from above, featuring a large shopping mall complex with distinctive angular roofing in the centre-left, flanked by MRT tracks running along the left edge. A large open green field, likely part of a school or Bishan-Ang Mo Kio Park, dominates the upper portion. Red-roofed buildings and a distinctive curved structure are visible among mature trees in the lower right.",
+  "analysis": {
+    "objects": [
+      {"type": "shopping_mall", "count": 1},
+      {"type": "mrt_station", "count": 1},
+      {"type": "hdb_block", "count": 3},
+      {"type": "vehicle", "count": 8}
+    ],
+    "infrastructure": ["mrt_line", "road_network", "parking_area"],
+    "terrain": ["urban", "parkland"],
+    "notable": "Bishan town centre showing the integration of commercial, transport, and green space that characterises Singapore's mature HDB town planning."
+  }
+}

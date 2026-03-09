@@ -1,0 +1,16 @@
+{
+  "image_file": "nadir_airport_changi_t3_1.3554_103.9885.jpg",
+  "perspective": "nadir",
+  "scene_type": "airport",
+  "caption": "Changi Airport Terminal 3 and Jewel Changi Airport viewed from above. The distinctive toroidal dome of Jewel is clearly visible in the upper right, flanked by terminal finger piers with aircraft parked at gates on both sides. Multiple commercial aircraft are visible on the apron, and taxiways extend outward to the runway. The terminal's elongated form with jet bridges and the iconic Jewel dome make this one of Singapore's most recognisable aerial landmarks.",
+  "analysis": {
+    "objects": [
+      {"type": "aircraft", "count": 15},
+      {"type": "shopping_mall", "count": 1},
+      {"type": "vehicle", "count": 10}
+    ],
+    "infrastructure": ["runway", "taxiway", "road_network"],
+    "terrain": ["urban"],
+    "notable": "Jewel Changi Airport's iconic toroidal glass dome clearly identifiable from nadir view, flanked by Terminal 3's pier gates — a signature landmark of Singapore's aviation infrastructure."
+  }
+}
