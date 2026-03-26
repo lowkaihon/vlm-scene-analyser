@@ -1,17 +1,26 @@
 {
   "image_file": "nadir_mixed_tiong_bahru_1.286_103.828.jpg",
   "perspective": "nadir",
-  "scene_type": "residential_private",
-  "caption": "Tiong Bahru area viewed from above, dominated by modern condominium towers with distinctive angular and curved footprints. Multiple blue swimming pools are visible across the developments, and tennis courts sit in the lower left. Dense mature tree canopy fills the spaces between buildings, providing green relief. The modern high-rise condominiums in this scene contrast with the heritage Art Deco walk-up apartments Tiong Bahru is traditionally known for.",
-  "analysis": {
-    "objects": [
-      {"type": "condo", "count": 6},
-      {"type": "sports_facility", "count": 2},
-      {"type": "hdb_block", "count": 2},
-      {"type": "vehicle", "count": 5}
-    ],
-    "infrastructure": ["road_network", "parking_area"],
-    "terrain": ["urban", "parkland"],
-    "notable": "Modern condominium towers near Tiong Bahru with multiple rooftop pools, showing the densification of this centrally located neighbourhood beyond its famous heritage walk-up apartments."
-  }
+  "scene_type": "mixed_use",
+  "caption": "Mixed-use area in Bukit Merah viewed from above. Condominium clusters with swimming pools and sports courts are spread across the frame, interspersed with HDB blocks and multi-storey car parks. A pair of large buildings with rooftop solar panels sits near the centre. Dense mature trees fill the spaces between the buildings.",
+  "objects": [
+    {
+      "type": "condo",
+      "count": 7
+    },
+    {
+      "type": "hdb_block",
+      "count": 7
+    },
+    {
+      "type": "sports_facility",
+      "count": 3
+    }
+  ],
+  "infrastructure": [
+    "covered_walkway"
+  ],
+  "terrain": [
+    "urban"
+  ]
 }

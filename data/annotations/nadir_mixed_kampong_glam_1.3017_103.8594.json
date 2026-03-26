@@ -2,14 +2,21 @@
   "image_file": "nadir_mixed_kampong_glam_1.3017_103.8594.jpg",
   "perspective": "nadir",
   "scene_type": "mixed_use",
-  "caption": "Kampong Glam heritage district viewed from above, showing dense conservation shophouses with orange-red tile roofs arranged along a street grid. The Sultan Mosque with its distinctive dome and surrounding green grounds is visible in the upper right — one of Singapore's most important religious landmarks. The heritage shophouse terraces create a uniform roofscape pattern broken by the mosque's grounds and a few taller modern buildings at the edges.",
-  "analysis": {
-    "objects": [
-      {"type": "place_of_worship", "count": 1},
-      {"type": "vehicle", "count": 5}
-    ],
-    "infrastructure": ["road_network"],
-    "terrain": ["urban"],
-    "notable": "Kampong Glam's Malay-Arab heritage quarter with the Sultan Mosque dome visible among conservation shophouse rooftops — Singapore's historic Muslim cultural precinct gazetted as a national monument."
-  }
+  "caption": "Mixed-use area in Kampong Glam viewed from above. Dense rows of shophouses with orange terracotta rooftops fill most of the frame in a tight grid of narrow streets. A mosque with a distinctive golden dome is visible among the shophouses. Commercial buildings border the shophouses along the edges, and a stretch of construction activity runs alongside one of the roads.",
+  "objects": [
+    {
+      "type": "shophouse",
+      "count": 70
+    },
+    {
+      "type": "place_of_worship",
+      "count": 1
+    }
+  ],
+  "infrastructure": [
+    "pedestrian_bridge"
+  ],
+  "terrain": [
+    "urban"
+  ]
 }

@@ -1,0 +1,29 @@
+{
+  "image_file": "nadir_transport_bishan_depot_1.3554_103.8543.jpg",
+  "perspective": "nadir",
+  "scene_type": "transport",
+  "caption": "Train depot in Bishan viewed from above. A large rectangular building with a rooftop solar panels occupies the centre, with fan-shaped rail sidings and multiple parallel tracks extending outward. An expressway runs along one edge and a narrow canal curves through another. Industrial buildings with rooftop solar panels, a sports field, a construction site and residential buildings are visible around the depot perimeter.",
+  "objects": [
+    {
+      "type": "warehouse",
+      "count": 2
+    },
+    {
+      "type": "sports_facility",
+      "count": 1
+    },
+    {
+      "type": "condo",
+      "count": 1
+    }
+  ],
+  "infrastructure": [
+    "mrt_track",
+    "expressway"
+
+  ],
+  "terrain": [
+    "industrial",
+    "water"
+  ]
+}

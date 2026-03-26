@@ -1,0 +1,23 @@
+{
+  "image_file": "nadir_transport_changi_depot_1.3276_103.9588.jpg",
+  "perspective": "nadir",
+  "scene_type": "transport",
+  "caption": "Train depot in Tampines viewed from above. A large rectangular building sits at one edge, with fan-shaped rail sidings extending outward. A large angled building and smaller buildings with blue and grey rooftops sit nearby. Yellow buildings with their own rail sidings occupy an adjacent edge, and a canal and cylindrical storage tanks are visible in another.",
+  "objects": [
+    {
+      "type": "warehouse",
+      "count": 6
+    },
+    {
+      "type": "construction_crane",
+      "count": 1
+    }
+  ],
+  "infrastructure": [
+    "mrt_track"
+  ],
+  "terrain": [
+    "industrial",
+    "water"
+  ]
+}

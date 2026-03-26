@@ -2,15 +2,22 @@
   "image_file": "nadir_parks_botanic_gardens_1.3138_103.8159.jpg",
   "perspective": "nadir",
   "scene_type": "park_green",
-  "caption": "Singapore Botanic Gardens, a UNESCO World Heritage Site, viewed from above. Dense tropical tree canopy dominates the frame, with a lake visible in the upper left and manicured lawns interspersed among the mature forest. Surrounding residential buildings, including landed houses and condominiums, frame the garden boundaries. The sheer density and maturity of the tree cover distinguishes this as one of Singapore's most important green spaces.",
-  "analysis": {
-    "objects": [
-      {"type": "landed_house", "count": 8},
-      {"type": "condo", "count": 2},
-      {"type": "vehicle", "count": 3}
-    ],
-    "infrastructure": ["road_network", "park_connector"],
-    "terrain": ["parkland", "forest_reserve", "water"],
-    "notable": "UNESCO World Heritage Singapore Botanic Gardens showing dense mature tropical forest canopy — a remarkable green oasis in the heart of urban Singapore."
-  }
+  "caption": "Botanic Gardens viewed from above. Dense tropical canopy covers most of the frame, with a small lake and open lawns visible among the trees. Buildings with orange, white, and grey rooftops sit along winding pathways through the canopy. Landed houses with orange-red rooftops line the edges of the park, and a small construction site with exposed earth occupy one corner.",
+  "objects": [
+    {
+      "type": "landed_house",
+      "count": 30
+    },
+    {
+      "type": "construction_crane",
+      "count": 1
+    }
+  ],
+  "infrastructure": [],
+  "terrain": [
+    "parkland",
+    "water",
+    "urban"
+
+  ]
 }

@@ -2,14 +2,29 @@
   "image_file": "nadir_mixed_katong_1.305_103.903.jpg",
   "perspective": "nadir",
   "scene_type": "mixed_use",
-  "caption": "Katong heritage district viewed from above, showing dense rows of Peranakan shophouses with distinctive orange-red tile roofs arranged along a grid of narrow streets. A main road runs diagonally through the frame separating different shophouse precincts. Some taller modern buildings are visible at the edges, and a swimming pool sits in the lower portion. The shophouse terraces of Katong and Joo Chiat form one of Singapore's most important Peranakan cultural heritage zones.",
-  "analysis": {
-    "objects": [
-      {"type": "condo", "count": 2},
-      {"type": "vehicle", "count": 10}
-    ],
-    "infrastructure": ["road_network"],
-    "terrain": ["urban"],
-    "notable": "Katong-Joo Chiat's Peranakan shophouse heritage district with its dense orange-tiled roofscape — one of Singapore's most culturally significant conservation areas reflecting Straits Chinese architectural traditions."
-  }
+  "caption": "Mixed commercial and residential area in Marine Parade viewed from above. Dense rows of shophouses and landed houses with orange terracotta rooftops fill much of the frame in a tight grid of narrow streets. Condominium blocks with swimming pools and commercial buildings are visible along one edge. A major road runs diagonally through the frame.",
+  "objects": [
+    {
+      "type": "shophouse",
+      "count": 45
+    },
+    {
+      "type": "landed_house",
+      "count": 10
+    },
+    {
+      "type": "condo",
+      "count": 5
+    },
+    {
+      "type": "sports_facility",
+      "count": 3
+    }
+  ],
+  "infrastructure": [
+    "pedestrian_bridge"
+  ],
+  "terrain": [
+    "urban"
+  ]
 }

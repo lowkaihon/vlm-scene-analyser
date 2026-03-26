@@ -2,13 +2,13 @@
   "image_file": "nadir_parks_jurong_lake_gardens_1.338_103.729.jpg",
   "perspective": "nadir",
   "scene_type": "park_green",
-  "caption": "Jurong Lake Gardens viewed from above, with the expansive Jurong Lake dominating the frame. Garden islands with winding pathways, pavilions, and landscaped areas sit within and along the lake. Dense tropical tree canopy surrounds the water body, and the former Chinese and Japanese Garden structures are visible on the central island. This is one of Singapore's largest lakeside gardens, recently redeveloped as a national gardens destination.",
-  "analysis": {
-    "objects": [
-      {"type": "place_of_worship", "count": 1}
-    ],
-    "infrastructure": ["pedestrian_bridge", "park_connector"],
-    "terrain": ["water", "parkland", "forest_reserve"],
-    "notable": "Jurong Lake Gardens showcasing Singapore's transformation of former reservoir recreational areas into curated national gardens with lake islands and themed garden spaces."
-  }
+  "caption": "Lake gardens in Jurong East viewed from above. Two garden islands sit within a lake, with open lawns, winding pathways, and scattered buildings with orange and grey rooftops. Bridges connect the islands to the surrounding parkland. Dense vegetation with shelters and paved areas borders the lake along one edge, and a construction area with exposed earth is visible at one corner.",
+  "objects": [],
+  "infrastructure": [
+    "park_connector"
+  ],
+  "terrain": [
+    "water",
+    "parkland"
+  ]
 }

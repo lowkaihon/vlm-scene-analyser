@@ -1,0 +1,31 @@
+{
+  "image_file": "nadir_port_west_coast_pier_1.2926_103.7622.jpg",
+  "perspective": "nadir",
+  "scene_type": "port_terminal",
+  "caption": "Marina and port in Queenstown viewed from above. Yachts and boats are moored in rows in a marina basin. A Y-shaped shelter extends into the sea, with a large car park behind. Container storage yards with colourful stacks and cranes line the wharf. A coastal park with a pier and an expressway occupy the landward edge.",
+  "objects": [
+    {
+      "type": "container_crane",
+      "count": 5
+    },
+    {
+      "type": "cargo_ship",
+      "count": 1
+    },
+    {
+      "type": "warehouse",
+      "count": 3
+    }
+  ],
+  "infrastructure": [
+    "jetty",
+    "park_connector",
+    "pedestrian_bridge",
+    "covered_walkway"
+  ],
+  "terrain": [
+    "water",
+    "industrial",
+    "parkland"
+  ]
+}

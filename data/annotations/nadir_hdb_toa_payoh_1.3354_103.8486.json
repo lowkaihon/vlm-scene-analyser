@@ -1,0 +1,22 @@
+{
+  "image_file": "nadir_hdb_toa_payoh_1.3354_103.8486.jpg",
+  "perspective": "nadir",
+  "scene_type": "residential_hdb",
+  "caption": "Dense HDB estate in Toa Payoh viewed from above. Approximately 20 slab and point blocks with grey rooftops are arranged in rows across the frame. Several point blocks feature oval rooftop structures. Sports courts with blue surfaces and multi-storey car parks are visible within the estate, and some blocks have rooftop solar panels.",
+  "objects": [
+    {
+      "type": "hdb_block",
+      "count": 20
+    },
+    {
+      "type": "sports_facility",
+      "count": 1
+    }
+  ],
+  "infrastructure": [
+    "covered_walkway"
+  ],
+  "terrain": [
+    "urban"
+  ]
+}

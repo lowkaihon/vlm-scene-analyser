@@ -2,14 +2,18 @@
   "image_file": "nadir_airport_seletar_1.4167_103.8675.jpg",
   "perspective": "nadir",
   "scene_type": "airport",
-  "caption": "Seletar Airport viewed from above, showing the runway and taxiway system with grass-covered infield areas. Several small aircraft are visible parked near hangars on the left, and additional aircraft are visible on the right apron. A circular taxiway turnaround is visible at the bottom. This smaller airport serves general aviation, business jets, and military operations, contrasting with the scale of Changi.",
-  "analysis": {
-    "objects": [
-      {"type": "aircraft", "count": 6},
-      {"type": "warehouse", "count": 2}
-    ],
-    "infrastructure": ["runway", "taxiway"],
-    "terrain": ["urban", "parkland"],
-    "notable": "Seletar Airport's compact layout with grass infields, serving as Singapore's secondary airport for general aviation and business jet operations in the northern part of the island."
-  }
+  "caption": "Airport in Seletar viewed from above. A single runway runs diagonally across the frame, with a grid of taxiways and rectangular grass sections between them. Approximately 10 small aircraft are parked at aprons and on open areas near buildings along the perimeter.",
+  "objects": [
+    {
+      "type": "aircraft",
+      "count": 10
+    }
+  ],
+  "infrastructure": [
+    "runway",
+    "taxiway"
+  ],
+  "terrain": [
+    "industrial"
+  ]
 }

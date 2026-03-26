@@ -1,0 +1,28 @@
+{
+  "image_file": "nadir_parks_pasir_ris_park_1.381_103.95.jpg",
+  "perspective": "nadir",
+  "scene_type": "park_green",
+  "caption": "Coastal park in Pasir Ris viewed from above. Dense tropical vegetation and a creek occupy the centre of the frame. A sandy beach and the sea run diagonally along one edge. Landed houses with red-tiled rooftops are visible at the periphery, with an HDB construction site nearby. Open clearings and landscaped maze structures sit among the vegetation.",
+  "objects": [
+    {
+      "type": "landed_house",
+      "count": 20
+    },
+    {
+      "type": "hdb_block",
+      "count": 4
+    },
+    {
+      "type": "construction_crane",
+      "count": 1
+    }
+  ],
+  "infrastructure": [
+    "park_connector"
+  ],
+  "terrain": [
+    "parkland",
+    "forest_reserve",
+    "water"
+  ]
+}

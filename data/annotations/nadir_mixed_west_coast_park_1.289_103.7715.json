@@ -1,0 +1,34 @@
+{
+  "image_file": "nadir_mixed_west_coast_park_1.289_103.7715.jpg",
+  "perspective": "nadir",
+  "scene_type": "mixed_use",
+  "caption": "Mixed-use area in Queenstown viewed from above. A container terminal with dense rows of colourful shipping containers and cranes occupies one side of the frame. Dense mature tropical trees surround a dark pond in a park at the centre. Landed houses with orange rooftops and condominium complexes fill the opposite side, separated from the park by an expressway.",
+  "objects": [
+    {
+      "type": "container_crane",
+      "count": 4
+    },
+    {
+      "type": "landed_house",
+      "count": 30
+    },
+    {
+      "type": "condo",
+      "count": 20
+    },
+    {
+      "type": "sports_facility",
+      "count": 3
+    }
+  ],
+  "infrastructure": [
+    "expressway",
+    "pedestrian_bridge",
+    "covered_walkway"
+  ],
+  "terrain": [
+    "parkland",
+    "urban",
+    "industrial"
+  ]
+}

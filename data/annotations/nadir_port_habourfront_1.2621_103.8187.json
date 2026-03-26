@@ -1,0 +1,27 @@
+{
+  "image_file": "nadir_port_habourfront_1.2621_103.8187.jpg",
+  "perspective": "nadir",
+  "scene_type": "port_terminal",
+  "caption": "Port terminal in Harbourfront viewed from above. An L-shaped pier extends from a building into the harbour, with several vessels moored alongside. A large shopping mall with a curved roofline sits beside the building, and condominium blocks occupy another corner. An island is partially visible across the channel, featuring pools and low-rise buildings.",
+  "objects": [
+    {
+      "type": "shopping_mall",
+      "count": 1
+    },
+    {
+      "type": "condo",
+      "count": 10
+    },
+    {
+      "type": "sports_facility",
+      "count": 1
+    }
+  ],
+  "infrastructure": [
+    "jetty"
+  ],
+  "terrain": [
+    "water",
+    "urban"
+  ]
+}

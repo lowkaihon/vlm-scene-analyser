@@ -1,0 +1,40 @@
+{
+  "image_file": "nadir_transport_pie_cte_1.3305_103.8624.jpg",
+  "perspective": "nadir",
+  "scene_type": "transport",
+  "caption": "Expressway interchange in Toa Payoh viewed from above. Multi-level flyover ramps curve through the centre where two expressways intersect. Two canals converge near the centre, running beneath the flyovers. School compounds with sports facilities occupy one quadrant, and a construction site with exposed earth is visible in another. Residential buildings cluster along the edges, with dense tree cover filling the spaces between.",
+  "objects": [
+    {
+      "type": "hdb_block",
+      "count": 15
+    },
+    {
+      "type": "condo",
+      "count": 8
+    },
+    {
+      "type": "landed_house",
+      "count": 5
+    },
+    {
+      "type": "school",
+      "count": 2
+    },
+    {
+      "type": "sports_facility",
+      "count": 2
+    },
+    {
+      "type": "construction_crane",
+      "count": 1
+    }
+  ],
+  "infrastructure": [
+    "expressway",
+    "pedestrian_bridge"
+  ],
+  "terrain": [
+    "urban",
+    "water"
+  ]
+}

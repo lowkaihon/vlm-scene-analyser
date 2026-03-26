@@ -1,16 +1,21 @@
 {
   "image_file": "nadir_transport_woodlands_ckpt_1.447_103.769.jpg",
   "perspective": "nadir",
-  "scene_type": "transport_hub",
-  "caption": "Woodlands Checkpoint, Singapore's main land border crossing to Malaysia, viewed from above. Large immigration and customs buildings with solar panel installations line the waterfront of the Johor Strait. Road and rail infrastructure converge at the checkpoint approach, with vehicle queuing lanes visible. The waters of the Strait separate Singapore from Johor, and the Causeway approach roads are clearly visible from the nadir perspective.",
-  "analysis": {
-    "objects": [
-      {"type": "warehouse", "count": 5},
-      {"type": "solar_panel", "count": 4},
-      {"type": "vehicle", "count": 25}
-    ],
-    "infrastructure": ["expressway", "mrt_line", "road_network"],
-    "terrain": ["urban", "water"],
-    "notable": "Woodlands Checkpoint — Singapore's busiest land border crossing handling over 300,000 daily crossings to Malaysia, with extensive immigration facilities and the Causeway approach visible."
-  }
+  "scene_type": "transport",
+  "caption": "Transport complex in Woodlands viewed from above. Multiple buildings with rooftop solar panels occupy one half, with multi-lane roads fanning toward the water. A wide causeway extends across a body of water at one edge. Two buildings with distinct orange-red rooftops sit beside the complex, with residential areas visible along an edge.",
+  "objects": [
+    {
+      "type": "warehouse",
+      "count": 6
+    },
+    {
+      "type": "hdb_block",
+      "count": 8
+    }
+  ],
+  "infrastructure": [],
+  "terrain": [
+    "industrial",
+    "water"
+  ]
 }

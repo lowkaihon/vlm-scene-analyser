@@ -1,0 +1,22 @@
+{
+  "image_file": "nadir_industrial_tuas_1.3255_103.645.jpg",
+  "perspective": "nadir",
+  "scene_type": "industrial",
+  "caption": "Dense industrial estate in Tuas viewed from above. Warehouses and industrial buildings with grey, blue, and orange rooftops fill the frame in a tight grid, with some featuring rooftop solar panels. An MRT track runs diagonally across the estate, with two stations sitting along the track. A curved road and an adjacent green field are visible at one corner.",
+  "objects": [
+    {
+      "type": "warehouse",
+      "count": 60
+    },
+    {
+      "type": "mrt_station",
+      "count": 2
+    }
+  ],
+  "infrastructure": [
+    "mrt_track"
+  ],
+  "terrain": [
+    "industrial"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "image_file": "nadir_airport_changi_cargo_1.3762_103.9963.jpg",
+  "perspective": "nadir",
+  "scene_type": "airport",
+  "caption": "Changi Airport cargo area viewed from above. Buildings of varying sizes fill most of the frame, many with rooftop solar panels. Approximately 20 aircraft are parked at aprons and around the buildings. Taxiways connect the apron areas to the runway along one edge, and cylindrical storage tanks are visible in one corner.",
+  "objects": [
+    {
+      "type": "aircraft",
+      "count": 20
+    },
+    {
+      "type": "warehouse",
+      "count": 10
+    }
+  ],
+  "infrastructure": [
+    "runway",
+    "taxiway"
+  ],
+  "terrain": [
+    "industrial"
+  ]
+}

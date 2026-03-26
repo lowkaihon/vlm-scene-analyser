@@ -1,0 +1,23 @@
+{
+  "image_file": "nadir_construction_woodlands_north_dev_1.4487_103.7864.jpg",
+  "perspective": "nadir",
+  "scene_type": "construction",
+  "caption": "Construction site in Woodlands viewed from above. Structural foundations and partially completed structures with large footprints occupy the centre, with exposed earth throughout. An expressway runs along one edge and dense forest borders the periphery. Completed buildings with sports courts and a swimming pool are visible nearby.",
+  "objects": [
+    {
+      "type": "construction_crane",
+      "count": 8
+    },
+    {
+      "type": "sports_facility",
+      "count": 1
+    }
+  ],
+  "infrastructure": [
+    "expressway"
+  ],
+  "terrain": [
+    "forest_reserve",
+    "urban"
+  ]
+}

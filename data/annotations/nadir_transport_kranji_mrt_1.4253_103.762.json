@@ -1,0 +1,21 @@
+{
+  "image_file": "nadir_transport_kranji_mrt_1.4253_103.762.jpg",
+  "perspective": "nadir",
+  "scene_type": "transport",
+  "caption": "MRT station in Kranji viewed from above. The station with a grey rooftop sits alongside a road, with elevated tracks continuing across a canal that runs diagonally through one corner. Open grass fields and mature trees surround the station. A circular pavilion with a fan-shaped shelter sits nearby. Industrial buildings and a cylindrical storage tank are visible at one edge.",
+  "objects": [
+    {
+      "type": "mrt_station",
+      "count": 1
+    }
+  ],
+  "infrastructure": [
+    "mrt_track",
+    "pedestrian_bridge",
+    "covered_walkway"
+  ],
+  "terrain": [
+    "parkland",
+    "water"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "image_file": "nadir_hdb_serangoon_north_1.3736_103.8718.jpg",
+  "perspective": "nadir",
+  "scene_type": "residential_hdb",
+  "caption": "HDB estate in Serangoon viewed from above. Approximately 20 slab blocks with grey rooftops and orange accents fill the frame, with most featuring rooftop solar panels. A blue flat-roofed building and an adjacent multi-storey car park sit at the centre. Orange-roofed covered walkways connect the blocks at ground level.",
+  "objects": [
+    {
+      "type": "hdb_block",
+      "count": 20
+    }
+  ],
+  "infrastructure": [
+    "covered_walkway"
+  ],
+  "terrain": [
+    "urban"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "image_file": "nadir_hdb_ang_mo_kio_1.3688_103.8544.jpg",
+  "perspective": "nadir",
+  "scene_type": "residential_hdb",
+  "caption": "Dense HDB estate in Ang Mo Kio viewed from above. Approximately 20 slab and point blocks with dark rooftops fitted with solar panels are arranged in a grid pattern with mature trees between them. Covered walkways with orange roofs connect the blocks at ground level.",
+  "objects": [
+    {
+      "type": "hdb_block",
+      "count": 20
+    }
+  ],
+  "infrastructure": [
+    "covered_walkway",
+    "pedestrian_bridge"
+  ],
+  "terrain": [
+    "urban"
+  ]
+}

@@ -2,14 +2,19 @@
   "image_file": "nadir_mixed_little_india_1.307_103.852.jpg",
   "perspective": "nadir",
   "scene_type": "mixed_use",
-  "caption": "Little India heritage district viewed from above, showing an extremely dense grid of conservation shophouses with orange-red clay tile roofs filling nearly the entire frame. Narrow streets run diagonally and horizontally between the tightly packed shophouse rows. A larger commercial building, likely Tekka Centre wet market and hawker centre, is partially visible in the upper left. The uniform low-rise shophouse roofscape creates a distinctive urban texture unique to Singapore's ethnic heritage precincts.",
-  "analysis": {
-    "objects": [
-      {"type": "hawker_centre", "count": 1},
-      {"type": "vehicle", "count": 8}
-    ],
-    "infrastructure": ["road_network"],
-    "terrain": ["urban"],
-    "notable": "Little India's exceptionally dense shophouse grid creating a near-continuous orange tile roofscape — Singapore's most intact heritage precinct and a vibrant cultural quarter for the South Asian community."
-  }
+  "caption": "Mixed-use area in Little India viewed from above. Dense rows of shophouses with orange terracotta rooftops fill most of the frame in a tight grid of narrow streets. A large building with blue roof and several commercial buildings sit among the shophouses. HDB blocks are visible at the edges.",
+  "objects": [
+    {
+      "type": "shophouse",
+      "count": 80
+    },
+    {
+      "type": "hdb_block",
+      "count": 4
+    }
+  ],
+  "infrastructure": [],
+  "terrain": [
+    "urban"
+  ]
 }

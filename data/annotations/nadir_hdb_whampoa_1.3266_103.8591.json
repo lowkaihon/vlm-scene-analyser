@@ -1,0 +1,20 @@
+{
+  "image_file": "nadir_hdb_whampoa_1.3266_103.8591.jpg",
+  "perspective": "nadir",
+  "scene_type": "residential_hdb",
+  "caption": "HDB estate in Novena viewed from above. Approximately 20 slab and point blocks surround a large open green field that occupies one quadrant. A wide multi-lane road runs along one edge, and dense mature trees fill the spaces between blocks. Multi-storey car parks sit within the estate, and some blocks have rooftop solar panels.",
+  "objects": [
+    {
+      "type": "hdb_block",
+      "count": 20
+    }
+  ],
+  "infrastructure": [
+    "expressway",
+    "covered_walkway",
+    "pedestrian_bridge"
+  ],
+  "terrain": [
+    "urban"
+  ]
+}

@@ -2,14 +2,15 @@
   "image_file": "nadir_mixed_dempsey_1.305_103.81.jpg",
   "perspective": "nadir",
   "scene_type": "mixed_use",
-  "caption": "Dempsey Hill viewed from above, showing former British colonial military barracks with red-brick and orange-tiled roofs set among dense tropical tree canopy. The low-rise barrack buildings are arranged along winding roads with car parks in between, now repurposed as restaurants, galleries, and lifestyle retail. A distinctive circular structure is visible in the upper right, and the surrounding mature rainforest canopy almost envelops the heritage buildings.",
-  "analysis": {
-    "objects": [
-      {"type": "warehouse", "count": 8},
-      {"type": "vehicle", "count": 15}
-    ],
-    "infrastructure": ["road_network", "parking_area"],
-    "terrain": ["forest_reserve", "urban"],
-    "notable": "Dempsey Hill's adaptive reuse of former British military barracks as a dining and lifestyle destination, with colonial buildings nestled among mature tropical forest — a unique heritage precinct in central Singapore."
-  }
+  "caption": "Mixed-use area in Tanglin viewed from above. Low-rise buildings with red-brown and grey rooftops are scattered among dense tropical forest. Winding roads and car parks connect the buildings through the tree canopy. Sports courts with coloured surfaces are visible at one edge.",
+  "objects": [
+    {
+      "type": "sports_facility",
+      "count": 1
+    }
+  ],
+  "infrastructure": [],
+  "terrain": [
+    "forest_reserve"
+  ]
 }

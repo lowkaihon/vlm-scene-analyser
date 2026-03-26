@@ -1,0 +1,19 @@
+{
+  "image_file": "nadir_industrial_gul_circle_1.3162_103.6705.jpg",
+  "perspective": "nadir",
+  "scene_type": "industrial",
+  "caption": "Industrial estate in Pioneer viewed from above. Large warehouses and factory buildings with blue, orange, and grey rooftops are arranged in a grid pattern, with several featuring rooftop solar panels. An expressway runs along one edge. Tree-lined streets separate the lots.",
+  "objects": [
+    {
+      "type": "warehouse",
+      "count": 50
+    }
+  ],
+  "infrastructure": [
+    "expressway",
+    "pedestrian_bridge"
+  ],
+  "terrain": [
+    "industrial"
+  ]
+}

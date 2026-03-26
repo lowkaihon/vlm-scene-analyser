@@ -1,0 +1,23 @@
+{
+  "image_file": "nadir_port_pasir_panjang_wharf_1.275_103.78.jpg",
+  "perspective": "nadir",
+  "scene_type": "port_terminal",
+  "caption": "Container port in Queenstown viewed from above. Berths line a U-shaped harbour basin, with cranes and container ships along the edges. Colourful container stacks fill the yards behind the berths in rows. An expressway runs along the landward edge, with residential and industrial buildings beyond.",
+  "objects": [
+    {
+      "type": "container_crane",
+      "count": 15
+    },
+    {
+      "type": "cargo_ship",
+      "count": 7
+    }
+  ],
+  "infrastructure": [
+    "expressway"
+  ],
+  "terrain": [
+    "water",
+    "industrial"
+  ]
+}

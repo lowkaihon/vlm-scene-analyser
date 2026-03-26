@@ -1,0 +1,23 @@
+{
+  "image_file": "nadir_hdb_bukit_merah_1.2798_103.8262.jpg",
+  "perspective": "nadir",
+  "scene_type": "residential_hdb",
+  "caption": "HDB estate in Bukit Merah viewed from above. Approximately 12 slab blocks with grey and dark rooftops are arranged around internal roads, with some featuring rooftop solar panels. A building with an orange roof is visible adjacent to the estate. Multi-storey car parks and a sports court with a blue surface sit among the blocks, and dense trees border one edge of the frame.",
+  "objects": [
+    {
+      "type": "hdb_block",
+      "count": 12
+    },
+    {
+      "type": "sports_facility",
+      "count": 1
+    }
+  ],
+  "infrastructure": [
+    "covered_walkway",
+    "pedestrian_bridge"
+  ],
+  "terrain": [
+    "urban"
+  ]
+}
