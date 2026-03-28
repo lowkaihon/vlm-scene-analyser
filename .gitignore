@@ -1,36 +1,15 @@
-# Environment & secrets
 .env
 .venv/
 __pycache__/
 *.pyc
-
-# IDE / tooling
 .claude/
 .python-version
-
-# Dataset images (not redistributed — reproduce via coordinates.csv)
-images/
-
-# Internal documents
-JD.md
-aerial-scene-analyser-spec.md
-main.py
+notes/
+archive/
 uv.lock
 
-# Model weights (too large for git)
-notebooks/final_adapter/
-notebooks/qwen_lora_v1/
+# Dataset images (not redistributed — see notebook 02 for coordinates)
+images/
 
-# Intermediate outputs (embedded in notebooks)
-notebooks/*.png
-notebooks/*_results.json
-
-# Exploratory/superseded notebooks
-notebooks/00_baseline_probe.ipynb
-notebooks/01_baseline_probe.ipynb
-notebooks/01_sg_baseline_benchmark.ipynb
-notebooks/01_sg_baseline_benchmark_results.ipynb
-notebooks/02_baseline_probe.ipynb
-notebooks/02_baseline_probe_results.ipynb
-notebooks/03_finetune_qwen_results.ipynb
-notebooks/03_finetune_qwen_new.ipynb
+# Test split and deployment (live on HF Spaces)
+data/test_split.jsonl

@@ -1,7 +1,7 @@
 [project]
 name = "vlm-scene-analyser"
 version = "0.1.0"
-description = "Add your description here"
+description = "Domain adaptation of Qwen2.5-VL-7B for structured analysis of Singapore nadir aerial imagery"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
@@ -9,5 +9,30 @@ dependencies = [
     "ipykernel>=7.2.0",
     "matplotlib",
     "pandas",
+    "pyyaml",
     "requests",
+]
+
+[project.optional-dependencies]
+train = [
+    "transformers>=4.49",
+    "peft",
+    "trl>=0.15",
+    "bitsandbytes",
+    "qwen-vl-utils",
+    "accelerate",
+    "datasets",
+    "scikit-learn",
+    "torch",
+]
+eval = [
+    "transformers>=4.49",
+    "peft",
+    "bitsandbytes",
+    "qwen-vl-utils",
+    "accelerate",
+    "rouge-score",
+    "bert-score",
+    "scikit-learn",
+    "torch",
 ]
