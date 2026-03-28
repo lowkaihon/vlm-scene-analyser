@@ -2,7 +2,7 @@
   "image_file": "nadir_hdb_jurong_west_1.3516_103.7242.jpg",
   "perspective": "nadir",
   "scene_type": "residential_hdb",
-  "caption": "Dense HDB estate in Jurong West viewed from above. Approximately 20 slab blocks with bent footprints and light blue and grey rooftops are arranged in a tight cluster. Solar panels are visible on several rooftops.",
+  "caption": "Dense HDB estate viewed from above. Approximately 20 slab blocks with bent footprints and light blue and grey rooftops are arranged in a tight cluster. Solar panels are visible on several rooftops.",
   "objects": [
     {
       "type": "hdb_block",

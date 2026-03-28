@@ -1,8 +1,8 @@
 {
-  "image_file": "nadir_cbd_orchard_1.3048_103.8318.jpg",
+  "image_file": "nadir_commercial_orchard_1.3048_103.8318.jpg",
   "perspective": "nadir",
   "scene_type": "commercial",
-  "caption": "Shopping district in Orchard viewed from above. Large commercial buildings surround a major road junction, with tall towers casting deep shadows across the scene. A turquoise rooftop pool and landscaped deck sit atop one of the buildings, and a fan-shaped roof is visible along one edge.",
+  "caption": "Commercial district viewed from above. Large commercial buildings surround a major road junction, with tall towers casting deep shadows across the scene. A turquoise rooftop pool and landscaped deck sit atop one of the buildings, and a fan-shaped roof is visible along one edge.",
   "objects": [
     {
       "type": "condo",

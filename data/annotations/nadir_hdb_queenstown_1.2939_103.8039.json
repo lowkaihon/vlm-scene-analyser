@@ -2,7 +2,7 @@
   "image_file": "nadir_hdb_queenstown_1.2939_103.8039.jpg",
   "perspective": "nadir",
   "scene_type": "residential_hdb",
-  "caption": "HDB estate in Queenstown viewed from above. Approximately 15 slab blocks with grey rooftops are densely arranged around curving roads, with several featuring rooftop solar panels. Multi-storey car parks are visible within the estate, and dense tropical trees fill the spaces between blocks.",
+  "caption": "HDB estate viewed from above. Approximately 15 slab blocks with grey rooftops are densely arranged around curving roads, with several featuring rooftop solar panels. Multi-storey car parks are visible within the estate, and dense tropical trees fill the spaces between blocks.",
   "objects": [
     {
       "type": "hdb_block",

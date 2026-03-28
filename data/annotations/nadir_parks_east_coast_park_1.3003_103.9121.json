@@ -1,0 +1,14 @@
+{
+  "image_file": "nadir_parks_east_coast_park_1.3003_103.9121.jpg",
+  "perspective": "nadir",
+  "scene_type": "park_green",
+  "caption": "Coastal park viewed from above. A wide sandy beach stretches along one edge, backed by a strip of dense mature trees forming the park. An open air car park and adjacent building with a brown roof sit in the centre of the park. A breakwater extends into the sea from the shore, and an expressway flyover is visible at the periphery.",
+  "objects": [],
+  "infrastructure": [
+    "expressway"
+  ],
+  "terrain": [
+    "parkland",
+    "water"
+  ]
+}

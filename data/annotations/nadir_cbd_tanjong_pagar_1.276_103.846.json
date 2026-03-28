@@ -1,8 +1,8 @@
 {
-  "image_file": "nadir_cbd_tanjong_pagar_1.276_103.846.jpg",
+  "image_file": "nadir_commercial_tanjong_pagar_1.276_103.846.jpg",
   "perspective": "nadir",
   "scene_type": "commercial",
-  "caption": "Commercial district in Tanjong Pagar viewed from above. Tall office towers cast long shadows over the surrounding area. Shophouse rows with orange-red clay-tile roofs cluster in one corner. A construction site with cranes and excavation works occupies a portion of the frame, and condominium blocks are visible at the periphery.",
+  "caption": "Commercial district viewed from above. Tall office towers cast long shadows over the surrounding area. Shophouse rows with orange-red clay-tile roofs cluster in one corner. A construction site with cranes and excavation works occupies a portion of the frame, and condominium blocks are visible at the periphery.",
   "objects": [
     {
       "type": "shophouse",

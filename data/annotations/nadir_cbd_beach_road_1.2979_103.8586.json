@@ -1,8 +1,8 @@
 {
-  "image_file": "nadir_cbd_beach_road_1.2979_103.8586.jpg",
+  "image_file": "nadir_commercial_beach_road_1.2979_103.8586.jpg",
   "perspective": "nadir",
   "scene_type": "commercial",
-  "caption": "Downtown commercial district viewed from above. Tall office towers cast long shadows over a network of streets and low-rise shophouse blocks with orange-red clay-tile roofs. A construction site with exposed earth and cranes occupies one section, with an expressway flyover curving through.",
+  "caption": "Commercial district viewed from above. Tall office towers cast long shadows over a network of streets and low-rise shophouse blocks with orange-red clay-tile roofs. A construction site with exposed earth and cranes occupies one section, with an expressway flyover curving through.",
   "objects": [
     {
       "type": "shophouse",

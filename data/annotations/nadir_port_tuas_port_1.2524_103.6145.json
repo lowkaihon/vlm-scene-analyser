@@ -2,7 +2,7 @@
   "image_file": "nadir_port_tuas_port_1.2524_103.6145.jpg",
   "perspective": "nadir",
   "scene_type": "port_terminal",
-  "caption": "Shipyard and port in Tuas viewed from above. Vessels and warehouse buildings with blue rooftops line one waterfront. Cranes and berthed vessels line the berths on the opposite side, with container stacks behind. Large areas of cleared land extend across the site.",
+  "caption": "Shipyard and port viewed from above. Vessels and warehouse buildings with blue rooftops line one waterfront. Cranes and berthed vessels line the berths on the opposite side, with container stacks behind. Large areas of cleared land extend across the site.",
   "objects": [
     {
       "type": "container_crane",

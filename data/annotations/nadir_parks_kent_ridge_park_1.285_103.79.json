@@ -2,20 +2,19 @@
   "image_file": "nadir_parks_kent_ridge_park_1.285_103.79.jpg",
   "perspective": "nadir",
   "scene_type": "park_green",
-  "caption": "Forested park in Queenstown viewed from above. Dense forest with an unbroken canopy covers a large portion of the frame. A cluster of condominium towers with swimming pools sits adjacent to the forest edge. Scattered buildings are visible at the fringes, and agricultural plots line an edge.",
+  "caption": "Forested park viewed from above. Dense forest canopy covers most of the frame, with roads cutting through the park partially visible beneath the trees. Condominium towers with a swimming pool sit at one corner, and buildings with a red and grey roofs occupy another.",
   "objects": [
     {
       "type": "condo",
-      "count": 8
+      "count": 3
     },
     {
       "type": "sports_facility",
-      "count": 2
+      "count": 1
     }
   ],
   "infrastructure": [],
   "terrain": [
-    "forest_reserve",
-    "urban"
+    "forest_reserve"
   ]
 }

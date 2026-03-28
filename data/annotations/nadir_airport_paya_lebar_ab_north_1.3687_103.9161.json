@@ -1,8 +1,8 @@
 {
   "image_file": "nadir_airport_paya_lebar_ab_north_1.3687_103.9161.jpg",
   "perspective": "nadir",
-  "scene_type": "military",
-  "caption": "Military airbase in Paya Lebar viewed from above. A long runway with parallel taxiway runs diagonally across the frame with open grass fields alongside. Dense forest covers most of the surrounding area. Industrial buildings are visible along the periphery.",
+  "scene_type": "airport",
+  "caption": "Airport viewed from above. A long runway with parallel taxiway runs diagonally across the frame with open grass fields alongside. Dense forest covers most of the surrounding area. Industrial buildings are visible along the periphery.",
   "objects": [
     {
       "type": "aircraft",

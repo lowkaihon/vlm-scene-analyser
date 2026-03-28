@@ -1,0 +1,22 @@
+{
+  "image_file": "nadir_commercial_kampong_glam_1.3017_103.8594.jpg",
+  "perspective": "nadir",
+  "scene_type": "commercial",
+  "caption": "Shophouse district viewed from above. Dense rows of shophouses with orange terracotta rooftops fill most of the frame in a tight grid of narrow streets. A mosque with a distinctive golden dome is visible among the shophouses. Commercial buildings border the shophouses along the edges, and a stretch of construction activity runs alongside one of the roads.",
+  "objects": [
+    {
+      "type": "shophouse",
+      "count": 70
+    },
+    {
+      "type": "place_of_worship",
+      "count": 1
+    }
+  ],
+  "infrastructure": [
+    "pedestrian_bridge"
+  ],
+  "terrain": [
+    "urban"
+  ]
+}

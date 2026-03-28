@@ -2,7 +2,7 @@
   "image_file": "nadir_industrial_joo_koon_1.3259_103.6736.jpg",
   "perspective": "nadir",
   "scene_type": "industrial",
-  "caption": "Industrial estate in Pioneer viewed from above. Dense rows of warehouses and factory buildings with blue, orange, and grey rooftops fill the frame in a grid layout. An MRT track runs across the estate, and solar panels are visible on several rooftops.",
+  "caption": "Industrial estate viewed from above. Dense rows of warehouses and factory buildings with blue, orange, and grey rooftops fill the frame in a grid layout. An MRT track runs across the estate, and solar panels are visible on several rooftops.",
   "objects": [
     {
       "type": "warehouse",

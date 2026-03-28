@@ -2,7 +2,7 @@
   "image_file": "nadir_transport_sengkang_depot_1.388_103.8851.jpg",
   "perspective": "nadir",
   "scene_type": "transport",
-  "caption": "Train depot in Sengkang viewed from above. A large rectangular building with rooftop solar panels sits at one edge, with intersecting tracks spreading across the site. Blue-panelled buildings and larger dark-roofed buildings sit nearby, with smaller structures and open grassed areas beyond. An LRT station with an oval rooftop and elevated tracks is visible at one corner, with residential buildings and a multi-storey car park alongside.",
+  "caption": "Train depot viewed from above. A large rectangular building with rooftop solar panels sits at one edge, with intersecting tracks spreading across the site. Blue-panelled buildings and larger dark-roofed buildings sit nearby, with smaller structures and open grassed areas beyond. An LRT station with an oval rooftop and elevated tracks is visible at one corner, with residential buildings and a multi-storey car park alongside.",
   "objects": [
     {
       "type": "mrt_station",

@@ -2,7 +2,7 @@
   "image_file": "nadir_airport_seletar_1.4167_103.8675.jpg",
   "perspective": "nadir",
   "scene_type": "airport",
-  "caption": "Airport in Seletar viewed from above. A single runway runs diagonally across the frame, with a grid of taxiways and rectangular grass sections between them. Approximately 10 small aircraft are parked at aprons and on open areas near buildings along the perimeter.",
+  "caption": "Airport viewed from above. A single runway runs diagonally across the frame, with a grid of taxiways and rectangular grass sections between them. Approximately 10 small aircraft are parked at aprons and on open areas near buildings along the perimeter.",
   "objects": [
     {
       "type": "aircraft",

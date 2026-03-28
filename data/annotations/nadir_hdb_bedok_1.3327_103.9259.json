@@ -2,7 +2,7 @@
   "image_file": "nadir_hdb_bedok_1.3327_103.9259.jpg",
   "perspective": "nadir",
   "scene_type": "residential_hdb",
-  "caption": "HDB estate in Bedok viewed from above. Approximately 15 slab blocks with grey rooftops are clustered around a central road junction with a roundabout. A hawker centre with multiple rectangular orange-red roofs is visible among the blocks. Mature trees line the internal roads between blocks, and sports courts sit along the edges of the frame.",
+  "caption": "HDB estate viewed from above. Approximately 15 slab blocks with grey rooftops are clustered around a central road junction with a roundabout. A hawker centre with multiple rectangular orange-red roofs is visible among the blocks. Mature trees line the internal roads between blocks, and sports courts sit along the edges of the frame.",
   "objects": [
     {
       "type": "hdb_block",

@@ -2,7 +2,7 @@
   "image_file": "nadir_hdb_yishun_1.4271_103.8519.jpg",
   "perspective": "nadir",
   "scene_type": "residential_hdb",
-  "caption": "Dense HDB estate in Yishun viewed from above. Approximately 30 slab blocks fill the frame, arranged along a curving road that winds through the estate. A sports court and a light blue open area are visible near the centre. Dense tropical trees fill the spaces between blocks, and a multi-storey car park sits within the estate.",
+  "caption": "Dense HDB estate viewed from above. Approximately 30 slab blocks fill the frame, arranged along a curving road that winds through the estate. A sports court and a light blue open area are visible near the centre. Dense tropical trees fill the spaces between blocks, and a multi-storey car park sits within the estate.",
   "objects": [
     {
       "type": "hdb_block",

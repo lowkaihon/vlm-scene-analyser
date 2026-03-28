@@ -2,7 +2,7 @@
   "image_file": "nadir_port_keppel_terminal_1.263_103.832.jpg",
   "perspective": "nadir",
   "scene_type": "port_terminal",
-  "caption": "Container port at Brani Island viewed from above. A harbour channel separates a mainland container yard from an island terminal. A crane and cargo ship sit at the mainland berth. The island has colourful container stacks in dense rows, with cranes and cargo ships along the wharves. Trees and scattered buildings occupy the centre of the island.",
+  "caption": "Container port viewed from above. A harbour channel separates a mainland container yard from an island terminal. A crane and cargo ship sit at the mainland berth. The island has colourful container stacks in dense rows, with cranes and cargo ships along the wharves. Trees and scattered buildings occupy the centre of the island.",
   "objects": [
     {
       "type": "container_crane",

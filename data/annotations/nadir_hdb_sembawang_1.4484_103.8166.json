@@ -2,7 +2,7 @@
   "image_file": "nadir_hdb_sembawang_1.4484_103.8166.jpg",
   "perspective": "nadir",
   "scene_type": "residential_hdb",
-  "caption": "HDB estate in Sembawang viewed from above. Approximately 20 point and slab blocks with grey rooftops are visible on both sides of a major road and an MRT track running diagonally across the frame. A blue triangular-roofed structure sits near the centre. Multi-storey car parks are scattered across the estate.",
+  "caption": "HDB estate viewed from above. Approximately 20 point and slab blocks with grey rooftops are visible on both sides of a major road and an MRT track running diagonally across the frame. A blue triangular-roofed structure sits near the centre. Multi-storey car parks are scattered across the estate.",
   "objects": [
     {
       "type": "hdb_block",

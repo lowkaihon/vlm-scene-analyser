@@ -2,7 +2,7 @@
   "image_file": "nadir_hdb_bishan_1.3576_103.8472.jpg",
   "perspective": "nadir",
   "scene_type": "residential_hdb",
-  "caption": "Dense HDB estate in Bishan viewed from above. Approximately 15 slab blocks with orange-red pitched roofs are arranged around a central open field. Multi-storey car parks sit among the blocks, and sports courts and a swimming pool are visible at a corner of the frame.",
+  "caption": "Dense HDB estate viewed from above. Approximately 15 slab blocks with orange-red pitched roofs are arranged around a central open field. Multi-storey car parks sit among the blocks, and sports courts and a swimming pool are visible at a corner of the frame.",
   "objects": [
     {
       "type": "hdb_block",

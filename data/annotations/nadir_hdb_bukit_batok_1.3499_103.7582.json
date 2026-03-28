@@ -2,7 +2,7 @@
   "image_file": "nadir_hdb_bukit_batok_1.3499_103.7582.jpg",
   "perspective": "nadir",
   "scene_type": "residential_hdb",
-  "caption": "HDB estate in Bukit Batok viewed from above. Approximately 20 slab blocks with grey rooftops are arranged with mature trees between them, with several featuring rooftop solar panels. A sports court with a blue surface is visible among the blocks.",
+  "caption": "HDB estate viewed from above. Approximately 20 slab blocks with grey rooftops are arranged with mature trees between them, with several featuring rooftop solar panels. A sports court with a blue surface is visible among the blocks.",
   "objects": [
     {
       "type": "hdb_block",

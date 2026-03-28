@@ -1,0 +1,24 @@
+{
+  "image_file": "nadir_parks_pasir_ris_park_1.3808_103.9511.jpg",
+  "perspective": "nadir",
+  "scene_type": "park_green",
+  "caption": "Coastal park viewed from above. Dense tropical vegetation occupies the centre of the frame, with creeks running along either side. A sandy beach and the sea stretch along one edge. Open clearings and landscaped maze structures sit among the vegetation. Residential buildings and a waterpark are partially visible at the periphery.",
+  "objects": [
+    {
+      "type": "landed_house",
+      "count": 5
+    },
+    {
+      "type": "sports_facility",
+      "count": 1
+    }
+  ],
+  "infrastructure": [
+    "park_connector"
+  ],
+  "terrain": [
+    "parkland",
+    "forest_reserve",
+    "water"
+  ]
+}

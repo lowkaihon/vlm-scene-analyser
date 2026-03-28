@@ -2,7 +2,7 @@
   "image_file": "nadir_hdb_hougang_1.3707_103.8804.jpg",
   "perspective": "nadir",
   "scene_type": "residential_hdb",
-  "caption": "Dense HDB estate in Hougang viewed from above. Approximately 20 slab and point blocks with grey rooftops are arranged around a curving internal road, with several featuring rooftop solar panels. Orange-roofed covered walkways connect the blocks at ground level.",
+  "caption": "Dense HDB estate viewed from above. Approximately 20 slab and point blocks with grey rooftops are arranged around a curving internal road, with several featuring rooftop solar panels. Orange-roofed covered walkways connect the blocks at ground level.",
   "objects": [
     {
       "type": "hdb_block",

@@ -2,7 +2,7 @@
   "image_file": "nadir_port_tanjong_pagar_terminal_1.267_103.8463.jpg",
   "perspective": "nadir",
   "scene_type": "port_terminal",
-  "caption": "Container port in Bukit Merah viewed from above. The triangular terminal has a cluster of colourful containers on one side and densely packed container rows spread across a larger area on the other. Cranes line the berths, with a few vessels alongside. An expressway curves along the landward boundary, with commercial buildings and a construction site beyond.",
+  "caption": "Container port viewed from above. The triangular terminal has a cluster of colourful containers on one side and densely packed container rows spread across a larger area on the other. Cranes line the berths, with a few vessels alongside. An expressway curves along the landward boundary, with commercial buildings and a construction site beyond.",
   "objects": [
     {
       "type": "container_crane",

@@ -2,7 +2,7 @@
   "image_file": "nadir_port_psa_pp_t1_1.2685_103.794.jpg",
   "perspective": "nadir",
   "scene_type": "port_terminal",
-  "caption": "Container port in Queenstown viewed from above. Dense rows of colourful shipping containers fill the terminal. Cranes line the waterfront berths, with cargo ships alongside. Circular storage tanks and jetties sit along the adjacent coastline, with commercial buildings with rooftop solar panels visible at the edge.",
+  "caption": "Container port viewed from above. Dense rows of colourful shipping containers fill the terminal. Cranes line the waterfront berths, with cargo ships alongside. Circular storage tanks and jetties sit along the adjacent coastline, with commercial buildings with rooftop solar panels visible at the edge.",
   "objects": [
     {
       "type": "container_crane",

@@ -1,8 +1,8 @@
 {
-  "image_file": "nadir_cbd_robinson_road_1.28_103.849.jpg",
+  "image_file": "nadir_commercial_robinson_road_1.28_103.849.jpg",
   "perspective": "nadir",
   "scene_type": "commercial",
-  "caption": "Downtown commercial district viewed from above. Commercial buildings and office towers line a road running diagonally through the frame, casting deep shadows across narrow streets. Shophouse rows with orange clay-tile roofs cluster at one corner. A circular building with an orange roof and a building with distinctive orange sail-like rooftop structures are visible at the periphery.",
+  "caption": "Commercial district viewed from above. Commercial buildings and office towers line a road running diagonally through the frame, casting deep shadows across narrow streets. Shophouse rows with orange clay-tile roofs cluster at one corner. A circular building with an orange roof and a building with distinctive orange sail-like rooftop structures are visible at the periphery.",
   "objects": [
     {
       "type": "shophouse",

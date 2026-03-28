@@ -1,0 +1,23 @@
+{
+  "image_file": "nadir_commercial_harbourfront_1.265_103.822.jpg",
+  "perspective": "nadir",
+  "scene_type": "commercial",
+  "caption": "Commercial district viewed from above. A shopping mall with rooftop solar panels and a curved roofline occupies the centre of the frame. A landscaped rooftop with winding paths, circular features, and green spaces extends over one section of the mall. An expressway runs along one edge separating the mall from a forested hillside and residential buildings.",
+  "objects": [
+    {
+      "type": "shopping_mall",
+      "count": 1
+    },
+    {
+      "type": "condo",
+      "count": 2
+    }
+  ],
+  "infrastructure": [
+    "expressway",
+    "covered_walkway"
+  ],
+  "terrain": [
+    "urban"
+  ]
+}

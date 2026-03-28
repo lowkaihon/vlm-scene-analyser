@@ -1,8 +1,8 @@
 {
-  "image_file": "nadir_cbd_raffles_place_1.284_103.8514.jpg",
+  "image_file": "nadir_commercial_raffles_place_1.284_103.8514.jpg",
   "perspective": "nadir",
   "scene_type": "commercial",
-  "caption": "Commercial district in Raffles Place viewed from above. Tall skyscrapers with varied rooftop profiles fill the frame, casting deep shadows between them. Some buildings feature rooftop greenery. Trees line the roads at the edges of the frame.",
+  "caption": "Commercial district viewed from above. Tall skyscrapers with varied rooftop profiles fill the frame, casting deep shadows between them. Some buildings feature rooftop greenery. Trees line the roads at the edges of the frame.",
   "objects": [],
   "infrastructure": [
     "pedestrian_bridge"

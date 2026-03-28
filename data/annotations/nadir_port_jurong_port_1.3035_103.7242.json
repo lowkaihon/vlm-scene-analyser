@@ -2,7 +2,7 @@
   "image_file": "nadir_port_jurong_port_1.3035_103.7242.jpg",
   "perspective": "nadir",
   "scene_type": "port_terminal",
-  "caption": "Cargo port in Jurong East viewed from above. A triangular wharf extends into the sea, with warehouses featuring rooftop solar panels lining both waterfront edges. A blue-roofed warehouse sits at the centre, with open storage yards and scattered cargo nearby. Cranes and cargo vessels are visible along the berths, and industrial buildings sit along the landward edge.",
+  "caption": "Cargo port viewed from above. A triangular wharf extends into the sea, with warehouses featuring rooftop solar panels lining both waterfront edges. A blue-roofed warehouse sits at the centre, with open storage yards and scattered cargo nearby. Cranes and cargo vessels are visible along the berths, and industrial buildings sit along the landward edge.",
   "objects": [
     {
       "type": "container_crane",

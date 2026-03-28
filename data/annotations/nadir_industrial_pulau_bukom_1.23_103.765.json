@@ -2,7 +2,7 @@
   "image_file": "nadir_industrial_pulau_bukom_1.23_103.765.jpg",
   "perspective": "nadir",
   "scene_type": "industrial",
-  "caption": "Industrial island at Pulau Bukom viewed from above. Two land masses connected by bridges across a narrow channel are densely packed with clusters of cylindrical storage tanks of varying sizes. Industrial structures and a network of roads occupy the spaces between the clusters. A jetty extends from the shoreline at one corner.",
+  "caption": "Industrial island viewed from above. Two land masses connected by bridges across a narrow channel are densely packed with clusters of cylindrical storage tanks of varying sizes. Industrial structures and a network of roads occupy the spaces between the clusters. A jetty extends from the shoreline at one corner.",
   "objects": [],
   "infrastructure": [
     "jetty"

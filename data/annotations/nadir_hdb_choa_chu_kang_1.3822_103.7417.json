@@ -2,7 +2,7 @@
   "image_file": "nadir_hdb_choa_chu_kang_1.3822_103.7417.jpg",
   "perspective": "nadir",
   "scene_type": "residential_hdb",
-  "caption": "HDB estate in Choa Chu Kang viewed from above. Approximately 15 slab blocks with a mix of grey and orange rooftops are arranged in clusters. Sports courts and a multi-storey car park sit among the blocks, and dense tree canopy lines the main roads bordering the estate.",
+  "caption": "HDB estate viewed from above. Approximately 15 slab blocks with a mix of grey and orange rooftops are arranged in clusters. Sports courts and a multi-storey car park sit among the blocks, and dense tree canopy lines the main roads bordering the estate.",
   "objects": [
     {
       "type": "hdb_block",

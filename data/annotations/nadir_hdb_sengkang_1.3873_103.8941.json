@@ -2,7 +2,7 @@
   "image_file": "nadir_hdb_sengkang_1.3873_103.8941.jpg",
   "perspective": "nadir",
   "scene_type": "residential_hdb",
-  "caption": "Dense HDB estate in Sengkang viewed from above. Approximately 20 point and slab blocks are arranged on both sides of a major road interchange, with several featuring rooftop solar panels. Multi-storey car parks sit among the blocks, and a sports court is visible near the centre. Elevated LRT tracks run alongside the main road.",
+  "caption": "Dense HDB estate viewed from above. Approximately 20 point and slab blocks are arranged on both sides of a major road interchange, with several featuring rooftop solar panels. Multi-storey car parks sit among the blocks, and a sports court is visible near the centre. Elevated LRT tracks run alongside the main road.",
   "objects": [
     {
       "type": "hdb_block",

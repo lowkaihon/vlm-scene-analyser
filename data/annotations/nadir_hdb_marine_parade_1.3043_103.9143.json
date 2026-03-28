@@ -2,7 +2,7 @@
   "image_file": "nadir_hdb_marine_parade_1.3043_103.9143.jpg",
   "perspective": "nadir",
   "scene_type": "residential_hdb",
-  "caption": "HDB estate in Marine Parade viewed from above. Approximately 15 slab and point blocks with grey rooftops are arranged among dense tropical trees, with several featuring arc-shaped footprints and rooftop solar panels. Multi-storey car parks are visible among the blocks, and sports courts along one edge.",
+  "caption": "HDB estate viewed from above. Approximately 15 slab and point blocks with grey rooftops are arranged among dense tropical trees, with several featuring arc-shaped footprints and rooftop solar panels. Multi-storey car parks are visible among the blocks, and sports courts along one edge.",
   "objects": [
     {
       "type": "hdb_block",

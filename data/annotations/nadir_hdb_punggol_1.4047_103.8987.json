@@ -2,7 +2,7 @@
   "image_file": "nadir_hdb_punggol_1.4047_103.8987.jpg",
   "perspective": "nadir",
   "scene_type": "residential_hdb",
-  "caption": "HDB estate in Punggol viewed from above. Approximately 40 slab blocks fill the frame in a dense arrangement. A building with a distinctive orange cross-shaped roof sits at the centre. Landscaped areas and trees fill the spaces between the blocks. An LRT station is visible along one edge, with elevated tracks running along the periphery.",
+  "caption": "HDB estate viewed from above. Approximately 40 slab blocks fill the frame in a dense arrangement. A building with a distinctive orange cross-shaped roof sits at the centre. Landscaped areas and trees fill the spaces between the blocks. An LRT station is visible along one edge, with elevated tracks running along the periphery.",
   "objects": [
     {
       "type": "hdb_block",
