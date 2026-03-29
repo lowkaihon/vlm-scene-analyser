@@ -14,12 +14,8 @@ Fine-tuned a vision-language model to recognise Singapore-specific urban feature
 
 ## Demo
 
-<!-- TODO: Replace with actual demo video/gif -->
-<p align="center">
-  <a href="https://huggingface.co/spaces/kaihon/sg-aerial-scene-analyser">
-    <img src="samples/demo_placeholder.png" width="80%" alt="Demo video — click to try the live demo"/>
-  </a>
-</p>
+<!-- Replace with actual GitHub video URL after upload -->
+https://github.com/user-attachments/assets/PLACEHOLDER
 
 ## Highlights
 
@@ -67,8 +63,7 @@ vlm-scene-analyser/
 │   ├── 02_finetune.ipynb           # QLoRA fine-tuning with SFTTrainer
 │   └── 03_evaluation.ipynb         # Baseline vs fine-tuned comparison
 ├── data/
-│   ├── annotations.jsonl           # 109 structured annotations
-│   └── annotations/                # Per-image JSON files
+│   └── annotations.jsonl           # 109 structured annotations
 ├── samples/                        # Sample images for README
 └── pyproject.toml
 ```
@@ -103,11 +98,11 @@ Each image is annotated with a structured JSON object:
 
 ```json
 {
-  "caption": "Dense HDB estate viewed from above. Rows of long rectangular ...",
+  "caption": "Dense HDB estate viewed from above. Approximately 20 slab and point blocks with grey rooftops are arranged in rows across the frame. Several point blocks feature oval rooftop structures. Sports courts with blue surfaces and multi-storey car parks are visible within the estate, and some blocks have rooftop solar panels.",
   "scene_type": "residential_hdb",
-  "objects": [{"type": "hdb_block", "count": 20}, {"type": "hawker_centre", "count": 1}],
-  "infrastructure": ["covered_walkway", "mrt_track"],
-  "terrain": ["urban", "parkland"]
+  "objects": [{"type": "hdb_block", "count": 20}, {"type": "sports_facility", "count": 1}],
+  "infrastructure": ["covered_walkway"],
+  "terrain": ["urban"]
 }
 ```
 
@@ -122,32 +117,10 @@ Each image is annotated with a structured JSON object:
 | Compute | Google Colab Pro (L4 24GB) |
 | Demo | [Gradio](https://gradio.app) on [HuggingFace Spaces](https://huggingface.co/spaces/kaihon/sg-aerial-scene-analyser) |
 
-## Getting Started
+## Reproduce
 
-```bash
-git clone https://github.com/kaihon/vlm-scene-analyser.git
-cd vlm-scene-analyser
+Notebooks are designed for Google Colab with GPU. Source imagery is not included due to licensing:
 
-# Base dependencies (data curation, local development)
-pip install .
-
-# Training dependencies (GPU required)
-pip install ".[train]"
-
-# Evaluation dependencies (GPU required)
-pip install ".[eval]"
-```
-
-Notebooks are designed to run on Google Colab with GPU. They import shared logic from `src/` via:
-```python
-sys.path.insert(0, "/content/drive/MyDrive/vlm-scene-analyser")
-from src.inference import load_model, run_inference
-```
-
-## Dataset
-
-Source imagery is not included in this repository due to licensing constraints. To reproduce:
-
-1. Coordinates for all 109 locations are listed in `notebooks/02_dataset_curation.ipynb`
-2. Download nadir imagery via Google Maps Static API at zoom level 18, scale 2 (1280×1280 px)
+1. Coordinates for all 109 locations are in `notebooks/01_dataset_curation.ipynb`
+2. Download nadir imagery via Google Maps Static API at zoom levels 15–18, scale 2 (1280×1280 px)
 3. Annotations are provided in `data/annotations.jsonl`
