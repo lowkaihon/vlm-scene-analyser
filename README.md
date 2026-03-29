@@ -7,9 +7,9 @@ Fine-tuned a vision-language model to recognise Singapore-specific urban feature
 **[Live Demo](https://huggingface.co/spaces/kaihon/sg-aerial-scene-analyser)** · **[Model Card](https://huggingface.co/kaihon/sg-aerial-scene-analyser-lora)**
 
 <p align="center">
-  <img src="samples/nadir_hdb_punggol_1.3984_103.9072.jpg" width="30%" alt="HDB estate"/>
-  <img src="samples/nadir_cbd_marina_bay_1.2814_103.8586.jpg" width="30%" alt="Marina Bay CBD"/>
-  <img src="samples/nadir_parks_west_coast_park_1.281_103.755.jpg" width="30%" alt="West Coast Park"/>
+  <img src="samples/nadir_hdb_ang_mo_kio_2_1.3663_103.8478.jpg" width="30%" alt="HDB estate"/>
+  <img src="samples/nadir_port_pasir_panjang_wharf_1.275_103.78.jpg" width="30%" alt="Port terminal"/>
+  <img src="samples/nadir_parks_east_coast_park_1.3003_103.9121.jpg" width="30%" alt="East Coast Park"/>
 </p>
 
 ## Demo
@@ -24,18 +24,16 @@ Fine-tuned a vision-language model to recognise Singapore-specific urban feature
 ## Highlights
 
 - **QLoRA fine-tuning** of Qwen2.5-VL-7B (4-bit NF4 quantization) to ground aerial descriptions in Singapore-specific vocabulary — HDB estates, hawker centres, MRT infrastructure, covered walkways.
-- **Custom dataset** of 111 annotated nadir aerial images spanning 10 scene types, with a structured JSON schema and LLM-assisted annotation pipeline with manual verification.
-- **3-model VLM benchmark** (Qwen2.5-VL, LLaVA-OneVision, GLM-4.1V) identifying vocabulary gaps that informed the fine-tuning strategy.
+- **Custom dataset** of 109 annotated nadir aerial images spanning 9 scene types, with a structured JSON schema and LLM-assisted annotation pipeline with manual verification.
 - **Custom training pipeline** built with HuggingFace Transformers, TRL, and PEFT — handling dynamic-resolution image tiling, visual token padding, and assistant-only label masking.
 
 ## Pipeline
 
 ```mermaid
 flowchart LR
-    A["01 Benchmark\n3-model zero-shot\ncomparison"] --> B["02 Dataset Curation\n111 annotated\nnadir images"]
-    B --> C["03 Fine-tune\nQLoRA on\nQwen2.5-VL-7B"]
-    C --> D["04 Evaluation\nBaseline vs\nfine-tuned"]
-    D --> E["Gradio Space\nLive demo"]
+    A["01 Dataset Curation\n109 annotated\nnadir images"] --> B["02 Fine-tune\nQLoRA on\nQwen2.5-VL-7B"]
+    B --> C["03 Evaluation\nBaseline vs\nfine-tuned"]
+    C --> D["Gradio Space\nLive demo"]
 ```
 
 ## Results (17-sample held-out test set)
@@ -43,14 +41,14 @@ flowchart LR
 | Metric | Baseline | Fine-tuned | Delta |
 |--------|----------|------------|-------|
 | Schema Compliance | 100.0% | 100.0% | — |
-| Scene Type Accuracy | 76.5% | 76.5% | — |
-| ROUGE-1 F1 | 0.334 | 0.556 | +0.222 |
-| ROUGE-2 F1 | 0.049 | 0.235 | +0.186 |
-| ROUGE-L F1 | 0.194 | 0.386 | +0.192 |
-| BERTScore F1 | 0.877 | 0.914 | +0.037 |
-| Object Mention F1 | 0.295 | 0.395 | +0.100 |
+| Scene Type Accuracy | 52.9% | 70.6% | +17.7% |
+| ROUGE-1 F1 | 0.325 | 0.536 | +0.211 |
+| ROUGE-2 F1 | 0.040 | 0.268 | +0.228 |
+| ROUGE-L F1 | 0.193 | 0.402 | +0.209 |
+| BERTScore F1 | 0.875 | 0.917 | +0.042 |
+| Object Mention F1 | 0.309 | 0.471 | +0.161 |
 
-Fine-tuning nearly doubles caption quality (ROUGE-L +0.19) and improves object detection (F1 +0.10) while adopting Singapore-specific vocabulary. Scene type accuracy holds steady at 76.5%.
+Fine-tuning improves scene classification by +17.7%, doubles caption quality (ROUGE-L +0.21), and boosts object detection (F1 +0.16) while grounding descriptions in Singapore-specific vocabulary.
 
 ## Project Structure
 
@@ -65,12 +63,11 @@ vlm-scene-analyser/
 ├── configs/
 │   └── train_config.yaml           # Hyperparameters, model IDs, paths
 ├── notebooks/
-│   ├── 01_benchmark.ipynb          # 3-model zero-shot VLM benchmark
-│   ├── 02_dataset_curation.ipynb   # Image collection + annotation pipeline
-│   ├── 03_finetune.ipynb           # QLoRA fine-tuning with SFTTrainer
-│   └── 04_evaluation.ipynb         # Baseline vs fine-tuned comparison
+│   ├── 01_dataset_curation.ipynb   # Image collection + annotation pipeline
+│   ├── 02_finetune.ipynb           # QLoRA fine-tuning with SFTTrainer
+│   └── 03_evaluation.ipynb         # Baseline vs fine-tuned comparison
 ├── data/
-│   ├── annotations.jsonl           # 111 structured annotations
+│   ├── annotations.jsonl           # 109 structured annotations
 │   └── annotations/                # Per-image JSON files
 ├── samples/                        # Sample images for README
 └── pyproject.toml
@@ -78,19 +75,15 @@ vlm-scene-analyser/
 
 ## Approach
 
-### 1. Baseline Benchmarking
-
-Evaluated three open-source VLMs on Singapore aerial imagery in a zero-shot setting. Models consistently failed to produce Singapore-specific terms (HDB, hawker centre), defaulting to generic descriptions — zero mentions of "HDB" across 129 outputs.
-
-### 2. Dataset Curation
+### 1. Dataset Curation
 
 Built a structured annotation pipeline:
-- 111 nadir aerial images captured across Singapore via Google Maps Static API
-- 10 scene types: `residential_hdb`, `commercial`, `mixed_use`, `park_green`, `transport`, `industrial`, `port_terminal`, `construction`, `airport`, `waterway`
+- 109 nadir aerial images captured across Singapore via Google Maps Static API
+- 9 scene types: `residential_hdb`, `commercial`, `mixed_use`, `park_green`, `transport`, `industrial`, `port_terminal`, `construction`, `airport`
 - JSON schema per image: `caption`, `scene_type`, `objects` (with counts), `infrastructure`, `terrain`
 - LLM-assisted initial annotation with manual verification and correction
 
-### 3. QLoRA Fine-Tuning
+### 2. QLoRA Fine-Tuning
 
 Fine-tuned Qwen2.5-VL-7B-Instruct using:
 - **4-bit NF4 quantization** (BitsAndBytes) — 8.1 GB model footprint
@@ -100,7 +93,7 @@ Fine-tuned Qwen2.5-VL-7B-Instruct using:
 - **On-the-fly augmentation** — random rotation + flip for orientation-invariant nadir imagery
 - Stratified 70/15/15 train/val/test split with rare class grouping
 
-### 4. Evaluation
+### 3. Evaluation
 
 Multi-metric comparison of baseline vs fine-tuned on held-out test set: JSON Schema Compliance, Scene Type Accuracy, ROUGE-1/2/L, BERTScore, and custom Object Mention F1.
 
@@ -155,6 +148,6 @@ from src.inference import load_model, run_inference
 
 Source imagery is not included in this repository due to licensing constraints. To reproduce:
 
-1. Coordinates for all 111 locations are listed in `notebooks/02_dataset_curation.ipynb`
+1. Coordinates for all 109 locations are listed in `notebooks/02_dataset_curation.ipynb`
 2. Download nadir imagery via Google Maps Static API at zoom level 18, scale 2 (1280×1280 px)
 3. Annotations are provided in `data/annotations.jsonl`

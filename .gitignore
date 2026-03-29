@@ -7,9 +7,9 @@ __pycache__/
 notes/
 archive/
 uv.lock
+scripts/
+data/*
+!data/annotations.jsonl
 
-# Dataset images (not redistributed — see notebook 02 for coordinates)
+# Dataset images (not redistributed — see notebook 01 for coordinates)
 images/
-
-# Test split and deployment (live on HF Spaces)
-data/test_split.jsonl
