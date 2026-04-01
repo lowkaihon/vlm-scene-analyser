@@ -14,7 +14,7 @@ Fine-tuned a vision-language model to recognise Singapore-specific urban feature
 
 ## Demo
 
-https://github.com/user-attachments/assets/4e606d36-03f8-4c96-8fff-fa8455a6a6f6
+https://github.com/user-attachments/assets/d01c0de4-e532-4ee5-ad4d-f414bf549ceb
 
 ## Highlights
 
