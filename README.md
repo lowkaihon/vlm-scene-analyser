@@ -7,9 +7,9 @@ Fine-tuned a vision-language model to recognise Singapore-specific urban feature
 **[Live Demo](https://huggingface.co/spaces/kaihon/sg-aerial-scene-analyser)** · **[Model Card](https://huggingface.co/kaihon/sg-aerial-scene-analyser-lora)**
 
 <p align="center">
-  <img src="samples/nadir_hdb_ang_mo_kio_2_1.3663_103.8478.jpg" width="30%" alt="HDB estate"/>
-  <img src="samples/nadir_port_pasir_panjang_wharf_1.275_103.78.jpg" width="30%" alt="Port terminal"/>
-  <img src="samples/nadir_parks_east_coast_park_1.3003_103.9121.jpg" width="30%" alt="East Coast Park"/>
+  <img src="samples/nadir_hdb_woodlands_hdb_1.4408_103.797.jpg" width="30%" alt="HDB estate"/>
+  <img src="samples/nadir_commercial_little_india_1.307_103.852.jpg" width="30%" alt="Commercial district"/>
+  <img src="samples/nadir_port_keppel_terminal_1.263_103.832.jpg" width="30%" alt="Port"/>
 </p>
 
 ## Demo
